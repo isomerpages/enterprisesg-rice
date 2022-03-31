@@ -15,7 +15,7 @@ description: ""
 			Under the RSS, all White Rice, Basmati Rice, Ponni Rice and Parboiled Rice are classified as stockpile grade rice. Importers of these types of rice for local distribution must join the RSS as licensed stockpile participants.</td>
 		</tr>
 	</tbody>
-</table></br>
+</table><br>
 <strong>Monthly Import quantity (MIQ)</strong>
 
 <table cellspacing="0" cellpadding="10">
@@ -28,7 +28,7 @@ description: ""
 			For import of basmati, parboiled and ponni rice, there is no minimum MIQ.</td>
 		</tr>
 	</tbody>
-</table></br>
+</table><br>
 <strong>Stockpile Quantity (SQ)</strong>
 <table cellspacing="0" cellpadding="10">
 	<tbody>
@@ -100,7 +100,7 @@ description: ""
     </tr>
   </tbody>
 </table>
-</br>
+<br>
   <strong>Food Labelling Requirement</strong>
 <table cellpadding="10" cellspacing="0">
   <tbody>
