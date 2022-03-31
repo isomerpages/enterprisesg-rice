@@ -15,7 +15,7 @@ description: ""
 			Under the RSS, all White Rice, Basmati Rice, Ponni Rice and Parboiled Rice are classified as stockpile grade rice. Importers of these types of rice for local distribution must join the RSS as licensed stockpile participants.</td>
 		</tr>
 	</tbody>
-</table>
+</table></br>
 <strong>Monthly Import quantity (MIQ)</strong>
 
 <table cellspacing="0" cellpadding="10">
@@ -28,7 +28,7 @@ description: ""
 			For import of basmati, parboiled and ponni rice, there is no minimum MIQ.</td>
 		</tr>
 	</tbody>
-</table>
+</table></br>
 <strong>Stockpile Quantity (SQ)</strong>
 <table cellspacing="0" cellpadding="10">
 	<tbody>
@@ -42,7 +42,7 @@ description: ""
 			The Rice Stockpile belongs to the individual stockpile participant, although the Government has the right to acquire the rice (with compensation) during an emergency.<br><br>
 			Apart from the Prescribed Stockpile Quantity that is kept in the government-designated warehouse, the stockpile participants may keep their trading stocks at warehouses of their own choice.<br><br>
 			For all rice consignments, importers are to submit declarations for rice imports and exports. Rice importers can sell either to wholesalers or directly to retailers. The stockpile participants may establish their own local distribution network.<br><br>
-			For rice traders who purely deal with wholesaling business, they shall hold a valid wholesale license.<br><br>
+			For rice traders who purely deal with wholesaling business, they shall hold a valid wholesale license.
 			</td>
 		</tr>
 	</tbody>
@@ -99,15 +99,12 @@ description: ""
       </td>
     </tr>
   </tbody>
-</table>
+</table></br>
   <strong>Food Labelling Requirement</strong>
-  <br />
 <table cellpadding="10" cellspacing="0">
   <tbody>
     <tr>
       <td>Under regulation 260 of the Singapore Foods Regulations, every package of rice shall bear a label that corresponds to the type of rice that is being sold to the customer. Hence,&nbsp;all pre-packed rice for Sale in Singapore must be labelled with the following details:
-        <br />
-        &nbsp;
         <ol>
           <li>Type of rice</li>
           <li>Grain composition of rice in the package, as stated under regulation 260 (3)</li>
@@ -115,9 +112,8 @@ description: ""
           <li>Brand (if any) and,</li>
           <li>Name and address of local importer, distributor, agent or packer.</li>
         </ol>
-        <p>All prepacked food shall also comply with the general labelling requirements stipulated under regulation 5. Voluntary labelling of prepacked rice as &ldquo;wholegrain&rdquo; should also comply fully with the requirements as specified under regulation 40A of the Food Regulations.
-        </p>
-<p>For more information on food labelling, please check with these organizations:</p>
+        All prepacked food shall also comply with the general labelling requirements stipulated under regulation 5. Voluntary labelling of prepacked rice as &ldquo;wholegrain&rdquo; should also comply fully with the requirements as specified under regulation 40A of the Food Regulations. 
+</br></br>For more information on food labelling, please check with these organizations:
 </td></tr></tbody></table>
 <table cellspacing="0" cellpadding="10" border="0">
   <thead>
@@ -139,8 +135,7 @@ description: ""
       <td>Singapore Food Agency (SFA)
       </td>
       <td>
-        <p><a href="http://sfa.gov.sg/">http://sfa.gov.sg</a>
-        </p>
+        <a href="http://sfa.gov.sg/">http://sfa.gov.sg</a>
       </td>
       <td>6805-2871
       </td>
