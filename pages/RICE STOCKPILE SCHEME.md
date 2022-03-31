@@ -47,63 +47,79 @@ description: ""
 		</tr>
 	</tbody>
 </table>
-	<table cellspacing="0" cellpadding="10" border="0">
-		<tbody>
-			<tr>
-				<td colspan="4">Import of rice for local distribution</td>
-			</tr>
-			<tr>
-				<td>Type of rice</td>
-				<td>Monthly Import Quantity (MIQ)</td>
-				<td>&nbsp;Minimum PSQ</td>
-				<td>Stockpile Quantity&nbsp;in&nbsp;Government<br>
-				designated warehouse</td>
-			</tr>
-			<tr>
-				<td>White Rice</td>
-				<td>Pre-committed quantity at a minimum of 50 MT</td>
-				<td>&nbsp;N.A.</td>
-				<td>2 X Monthly Import quantity</td>
-			</tr>
-			<tr>
-				<td>Basmati, Parboiled and Ponni Rice</td>
-				<td>No minimum</td>
-				<td>&nbsp;5 MT</td>
-				<td>2 X Average Monthly Import quantity</td>
-			</tr>
-			<tr>
-				<td>Other Rice</td>
-				<td>Not applicable</td>
-				<td>&nbsp;N.A.</td>
-				<td>Not applicable</td>
-			</tr>
-		</tbody>
-	</table>
-	<br>
-	<br>
-	<strong>Food Labelling Requirement</strong><br>
-	&nbsp;
-	<table cellspacing="0" cellpadding="10">
-		<tbody>
-			<tr>
-				<td>Under regulation 260 of the Singapore Foods Regulations, every package of rice shall bear a label that corresponds to the type of rice that is being sold to the customer. Hence,&nbsp;all pre-packed rice for Sale in Singapore must be labelled with the following details:<br>
-				&nbsp;
-				<ol>
-					<li>Type of rice</li>
-					<li>Grain composition of rice in the package, as stated under regulation 260 (3)</li>
-					<li>Nett weight in the package expressed in Kilograms</li>
-					<li>Brand (if any) and,</li>
-					<li>Name and address of local importer, distributor, agent or packer.</li>
-				</ol></td>
-</tr>
-			<tr>
-				<td>
-				All prepacked food shall also comply with the general labelling requirements stipulated under regulation 5. Voluntary labelling of prepacked rice as “wholegrain” should also comply fully with the requirements as specified under regulation 40A of the Food Regulations. <br>For more information on food labelling, please check with these organizations:</td></tr></tbody></table>
-
-<p>For more information on food labelling, please check with these organizations:
-  <br>
-  &nbsp;
-</p>
+	<table>
+	
+<table border="0" cellpadding="10" cellspacing="0">
+  <thead>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="4">Import of rice for local distribution
+      </td>
+    </tr>
+    <tr>
+      <td>Type of rice
+      </td>
+      <td>Monthly Import Quantity (MIQ)
+      </td>
+      <td>&nbsp;Minimum PSQ
+      </td>
+      <td>Stockpile Quantity&nbsp;in&nbsp;Government
+        <br />
+        designated warehouse
+      </td>
+    </tr>
+    <tr>
+      <td>White Rice
+      </td>
+      <td>Pre-committed quantity at a minimum of 50 MT
+      </td>
+      <td>&nbsp;N.A.
+      </td>
+      <td>2 X Monthly Import quantity
+      </td>
+    </tr>
+    <tr>
+      <td>Basmati, Parboiled and Ponni Rice
+      </td>
+      <td>No minimum
+      </td>
+      <td>&nbsp;5 MT
+      </td>
+      <td>2 X Average Monthly Import quantity
+      </td>
+    </tr>
+    <tr>
+      <td>Other Rice
+      </td>
+      <td>Not applicable
+      </td>
+      <td>&nbsp;N.A.
+      </td>
+      <td>Not applicable
+      </td>
+    </tr>
+  </tbody>
+</table>
+  <strong>Food Labelling Requirement</strong>
+  <br />
+<table cellpadding="10" cellspacing="0">
+  <tbody>
+    <tr>
+      <td>Under regulation 260 of the Singapore Foods Regulations, every package of rice shall bear a label that corresponds to the type of rice that is being sold to the customer. Hence,&nbsp;all pre-packed rice for Sale in Singapore must be labelled with the following details:
+        <br />
+        &nbsp;
+        <ol>
+          <li>Type of rice</li>
+          <li>Grain composition of rice in the package, as stated under regulation 260 (3)</li>
+          <li>Nett weight in the package expressed in Kilograms</li>
+          <li>Brand (if any) and,</li>
+          <li>Name and address of local importer, distributor, agent or packer.</li>
+        </ol>
+        <p>All prepacked food shall also comply with the general labelling requirements stipulated under regulation 5. Voluntary labelling of prepacked rice as &ldquo;wholegrain&rdquo; should also comply fully with the requirements as specified under regulation 40A of the Food Regulations.
+        </p>
+<p>For more information on food labelling, please check with these organizations:</p>
+</td></tr></tbody></table>
 <table cellspacing="0" cellpadding="10" border="0">
   <thead>
   </thead>
