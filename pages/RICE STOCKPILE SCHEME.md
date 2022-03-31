@@ -48,8 +48,6 @@ description: ""
 	</tbody>
 </table>
 	<table cellspacing="0" cellpadding="10" border="0">
-		<thead>
-		</thead>
 		<tbody>
 			<tr>
 				<td colspan="4">Import of rice for local distribution</td>
