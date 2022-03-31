@@ -9,7 +9,7 @@ sections:
   - hero:
       title: hello
       subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/RICE banner.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
