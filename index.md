@@ -7,11 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: hello
-      subtitle: Hero subtitle
       background: /images/RICE banner - Copy.jpg
-      button: Contact Us
-      url: /contact-us/
+      url: mailto:rice@enterprisesg.gov.sg
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
