@@ -10,3 +10,10 @@ links:
     resource_room: true
   - title: RICE STOCKPILE SCHEME
     url: /RICESTOCKPILESCHEME
+  - title: "123"
+    url: /permalink
+    sublinks:
+      - title: "456"
+        url: /permalink
+      - title: "888"
+        url: /permalink
