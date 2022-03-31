@@ -99,7 +99,8 @@ description: ""
       </td>
     </tr>
   </tbody>
-</table></br>
+</table>
+</br>
   <strong>Food Labelling Requirement</strong>
 <table cellpadding="10" cellspacing="0">
   <tbody>
