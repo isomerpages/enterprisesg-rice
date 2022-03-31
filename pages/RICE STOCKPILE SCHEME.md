@@ -47,7 +47,6 @@ description: ""
 		</tr>
 	</tbody>
 </table>
-	<table>
 	
 <table border="0" cellpadding="10" cellspacing="0">
   <thead>
