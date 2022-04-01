@@ -8,12 +8,20 @@ links:
     collection: collection
   - title: Resources
     resource_room: true
+  - title: RICE STOCKPILE SCHEMEtest
+    url: /RICESTOCKPILESCHEME
   - title: RICE STOCKPILE SCHEME
     url: /RICESTOCKPILESCHEME
-  - title: "123"
-    url: /permalink
     sublinks:
-      - title: "456"
-        url: /permalink
-      - title: "888"
-        url: /permalink
+      - title: TYPES OF LICENCES
+        url: /TYPESOFLICENCES
+      - title: Licence Application
+        url: /LicenceApplication
+      - title: PERMIT APPLICATION
+        url: /PERMITAPPLICATION
+      - title: HS CODE
+        url: /HSCODE
+      - title: DESIGNATED WAREHOUSE OPERATOR
+        url: /DESIGNATEDWAREHOUSEOPERATOR
+      - title: RICE LICENCEES
+        url: /RICELICENCEES
