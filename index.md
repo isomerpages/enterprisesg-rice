@@ -25,7 +25,7 @@ sections:
       button: Click here
       url: https://rice.enterprisesg.gov.sg/Home.aspx
   - resources:
-      title: Media
+      title: Cirular
       subtitle: Learn more
       button: View More
 ---
