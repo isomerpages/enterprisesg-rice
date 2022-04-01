@@ -3,8 +3,8 @@ title: DESIGNATED WAREHOUSE OPERATOR
 permalink: /DESIGNATEDWAREHOUSEOPERATOR
 description: ""
 ---
-<p>Please contact our designated warehouse operator&nbsp;for more information on their charges, locations and procedures&nbsp;if you&nbsp;intend to&nbsp;import stockpile grade rice.
-</p>
+<table><tbody></td>
+Please contact our designated warehouse operator&nbsp;for more information on their charges, locations and procedures&nbsp;if you&nbsp;intend to&nbsp;import stockpile grade rice.
         <table border="0" cellpadding="10" cellspacing="0">
           <thead>
           </thead>
@@ -51,3 +51,6 @@ description: ""
             </tr>
           </tbody>
         </table>
+				</td>
+				</tbody>
+				</table>
