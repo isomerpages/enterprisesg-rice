@@ -1,15 +1,5 @@
 logo: /images/Logo.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Page
-    url: /page/
-  - title: Collection
-    collection: collection
-  - title: Resources
-    resource_room: true
-  - title: RICE STOCKPILE SCHEMEtest
-    url: /RICESTOCKPILESCHEME
   - title: RICE STOCKPILE SCHEME
     url: /RICESTOCKPILESCHEME
     sublinks:
@@ -25,3 +15,13 @@ links:
         url: /DESIGNATEDWAREHOUSEOPERATOR
       - title: RICE LICENCEES
         url: /RICELICENCEES
+  - title: Contact Us
+    url: /contact-us/
+  - title: Page
+    url: /page/
+  - title: Collection
+    collection: collection
+  - title: Resources
+    resource_room: true
+  - title: RICE STOCKPILE SCHEMEtest
+    url: /RICESTOCKPILESCHEME
