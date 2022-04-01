@@ -20,14 +20,12 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: For Business Users Login
+      subtitle: Login
+      button: Click here
+      url: https://rice.enterprisesg.gov.sg/Home.aspx
   - resources:
       title: Media
       subtitle: Learn more
       button: View More
 ---
-
