@@ -22,10 +22,10 @@ Please contact our designated warehouse operator&nbsp;for more information on th
               </td>
             </tr>
             <tr>
-              <td>General Office
+              <td><p>General Office</p>
               </td>
               <td>
-                <p>&nbsp;&nbsp;&nbsp;6250-8047
+                <p>6250-8047
                 </p>
                 <p>or&nbsp;6250-8673
                 </p>
@@ -42,7 +42,7 @@ Please contact our designated warehouse operator&nbsp;for more information on th
                 <p>New account registration
                 </p>
               </td>
-              <td>6758-9553
+              <td><p>6758-9553</p>
               </td>
               <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <p><a href="mailto:crischiam@ssw.sg">crischiam@ssw.sg</a>
