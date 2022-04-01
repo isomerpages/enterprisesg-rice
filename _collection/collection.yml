@@ -2,6 +2,5 @@ collections:
   collection:
     output: true
     order:
-      - privacy.md
       - page/.keep
       - page/sub-page.md
