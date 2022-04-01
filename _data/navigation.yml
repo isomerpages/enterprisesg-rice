@@ -15,13 +15,11 @@ links:
         url: /DESIGNATEDWAREHOUSEOPERATOR
       - title: RICE LICENCEES
         url: /RICELICENCEES
+  - title: Circular
+    url: /resources/circular/
   - title: Contact Us
     url: /contact-us/
   - title: Page
     url: /page/
   - title: Collection
     collection: collection
-  - title: RICE STOCKPILE SCHEMEtest
-    url: /RICESTOCKPILESCHEME
-  - title: Circular
-    url: /resources/circular/
