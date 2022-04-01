@@ -13,7 +13,7 @@ description: ""
         <br />
         <br />
         There are currently 5 types of rice licences, namely
-        <table border="10" cellpadding="10" cellspacing="10">
+        <table border="0" cellpadding="10" cellspacing="0">
           <thead>
           </thead>
           <tbody>
