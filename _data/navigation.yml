@@ -21,7 +21,7 @@ links:
     url: /page/
   - title: Collection
     collection: collection
-  - title: Circular
-    resource_room: true
   - title: RICE STOCKPILE SCHEMEtest
     url: /RICESTOCKPILESCHEME
+  - title: Circular
+    url: /Circular
