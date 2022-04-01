@@ -3,10 +3,7 @@ title: TYPES OF LICENCES
 permalink: /TYPESOFLICENCES
 description: ""
 ---
-<table cellpadding="10" cellspacing="0">
-  <tbody>
-    <tr>
-      <td>In Singapore, rice is a controlled item under the Price Control Act (Chapter 244) and the Price Control (Rice) 1990 issued by the Minister of Trade and Industry.
+In Singapore, rice is a controlled item under the Price Control Act (Chapter 244) and the Price Control (Rice) 1990 issued by the Minister of Trade and Industry.
         <br />
         <br />
         A licence is required to import, export and carry out wholesale dealings of rice.
@@ -69,7 +66,3 @@ description: ""
             </tr>
           </tbody>
         </table>
-      </td>
-    </tr>
-  </tbody>
-</table>
