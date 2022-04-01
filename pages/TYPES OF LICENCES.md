@@ -62,6 +62,6 @@ description: ""
             </tr>
           </tbody>
         </table>
-	</tr>
+	</td>
 	</tbody>
 	</table>
