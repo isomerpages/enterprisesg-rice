@@ -7,7 +7,6 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      background: /images/RICE banner - Copy.png
       url: mailto:rice@enterprisesg.gov.sg
       key_highlights:
         - title: New licence holders
