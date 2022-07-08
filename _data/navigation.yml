@@ -1,20 +1,12 @@
 logo: /images/Logo.jpg
 links:
-  - title: RICE STOCKPILE SCHEME
-    url: /RICESTOCKPILESCHEME
+  - title: About us
+    url: /Aboutus
     sublinks:
-      - title: TYPES OF LICENCES
-        url: /TYPESOFLICENCES
-      - title: Licence Application
-        url: /LicenceApplication
-      - title: PERMIT APPLICATION
-        url: /PERMITAPPLICATION
-      - title: HS CODE
-        url: /HSCODE
-      - title: DESIGNATED WAREHOUSE OPERATOR
-        url: /DESIGNATEDWAREHOUSEOPERATOR
-      - title: RICE LICENCEES
-        url: /RICELICENCEES
+      - title: "Rice Stockpile Scheme "
+        url: /RSS
+      - title: Rice Licences
+        url: /Ricelicences
   - title: Circular
     url: /resources/circular/
   - title: Contact Us
