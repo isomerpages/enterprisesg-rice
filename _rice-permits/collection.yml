@@ -1,4 +1,5 @@
 collections:
   rice-permits:
     output: true
-    order: []
+    order:
+      - PERMIT APPLICATION.md
