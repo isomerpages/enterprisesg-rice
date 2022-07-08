@@ -4,5 +4,4 @@ collections:
     order:
       - Overview/About.md
       - Overview/.keep
-      - Overview.md
       - Standards for Rice.md
