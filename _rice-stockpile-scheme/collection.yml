@@ -4,5 +4,3 @@ collections:
     order:
       - Standards for Rice.md
       - About.md
-      - page/.keep
-      - page/sub-page.md
