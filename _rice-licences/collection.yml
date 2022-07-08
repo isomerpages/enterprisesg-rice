@@ -1,4 +1,5 @@
 collections:
   rice-licences:
     output: true
-    order: []
+    order:
+      - TYPES OF LICENCES.md
