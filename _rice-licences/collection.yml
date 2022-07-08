@@ -1,0 +1,4 @@
+collections:
+  rice-licences:
+    output: true
+    order: []
