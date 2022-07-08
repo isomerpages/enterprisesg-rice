@@ -21,3 +21,6 @@ The MIQ depends on the type of stockpile grade rice imported:
 | MIQ | Minimum 50 MT per month   | No minimum import quota but maximum import quota is set based on past 6 months' imports  |
 
 *MT = Metric Ton
+
+**Stockpile Quantity**
+
