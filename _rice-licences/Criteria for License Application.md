@@ -7,7 +7,7 @@ description: ""
 
 Only a business entity or company registered with ACRA can apply for a rice license.
 
-# Cost and Validity of Licence
+**Cost and Validity of Licence**
 
 A $50 fee is applicable for each licence application. Each licence has lifetime validity.*
 
