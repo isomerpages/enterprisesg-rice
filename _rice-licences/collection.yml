@@ -2,5 +2,5 @@ collections:
   rice-licences:
     output: true
     order:
-      - HS CODE.md
       - TYPES OF LICENCES.md
+      - HS CODE.md
