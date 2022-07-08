@@ -7,11 +7,11 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      background: /images/RICE banner - Copy.jpg
+      background: /images/RICE banner - Copy.png
       url: mailto:rice@enterprisesg.gov.sg
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: New licence holders
+          description: ""
           url: https://google.com
         - title: Highlight B
           description: Important highlight B is equally important
@@ -19,9 +19,11 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      title: Rice Stockpile Scheme
   - infobar:
       title: For Business Users Login
       subtitle: Login
       button: Click here
       url: https://id.corppass.gov.sg/mga/sps/oauth/oauth20/authorize?response_type=code&scope=openid&client_id=dR3r5ptxBmA8chy94hND&nonce=MGCaqmVb&state=MGCaqmVbGezr&redirect_uri=https%3A%2F%2Frice.enterprisesg.gov.sg%2Flogin_cp.aspx
+      description: Already have a Corppass account? Sign in here!
 ---
