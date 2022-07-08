@@ -4,7 +4,7 @@ title: Enterprise Singapore
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       url: mailto:rice@enterprisesg.gov.sg
