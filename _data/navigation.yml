@@ -1,12 +1,7 @@
 logo: /images/Logo.jpg
 links:
-  - title: About us
-    url: /Aboutus
-    sublinks:
-      - title: "Rice Stockpile Scheme "
-        url: https://cms.isomer.gov.sg/sites/enterprisesg-rice/folders/rice-stockpile-scheme
-      - title: Rice Licences
-        url: /Ricelicences
+  - title: Rice Stockpile Scheme
+    collection: rice-stockpile-scheme
   - title: Apply now
     url: /Applynow
   - title: "Resources "
@@ -16,5 +11,3 @@ links:
         url: /permalink
   - title: Contact Us
     url: /contact-us/
-  - title: Rice Stockpile Scheme
-    collection: rice-stockpile-scheme
