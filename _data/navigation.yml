@@ -9,9 +9,10 @@ links:
         url: /Ricelicences
   - title: Apply now
     url: /Applynow
+  - title: "Resources "
+    url: /Resources
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
   - title: Contact Us
     url: /contact-us/
-  - title: Page
-    url: /page/
-  - title: Collection
-    collection: collection
