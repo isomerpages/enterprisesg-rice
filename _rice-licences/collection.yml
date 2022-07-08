@@ -2,4 +2,5 @@ collections:
   rice-licences:
     output: true
     order:
+      - Criteria for License Application.md
       - Types of Rice Licences.md
