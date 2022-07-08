@@ -2,6 +2,6 @@ collections:
   rice-licences:
     output: true
     order:
-      - Termination of Rice Licence.md
       - Types of Rice Licences.md
       - Criteria for License Application.md
+      - Termination of Rice Licence.md
