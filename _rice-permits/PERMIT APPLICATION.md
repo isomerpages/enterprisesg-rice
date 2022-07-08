@@ -3,7 +3,6 @@ title: PERMIT APPLICATION
 permalink: /PERMITAPPLICATION
 description: ""
 ---
-
 For each import or consignment, importers or their declaring agents have to submit permit declarations through the TradeNet® System.
 
 For more information, please visit the Trade Exchange website.
