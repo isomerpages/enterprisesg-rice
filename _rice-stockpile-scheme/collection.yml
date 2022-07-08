@@ -2,5 +2,5 @@ collections:
   rice-stockpile-scheme:
     output: true
     order:
-      - Standards for Rice.md
       - About.md
+      - Standards for Rice.md
