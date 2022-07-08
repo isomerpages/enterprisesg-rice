@@ -7,3 +7,4 @@ In Singapore, rice is a controlled item under the Rice Control Act (Chapter 244)
  
  A licence is required to import (into Singapore or Singapore Free Trade Zone), re-export and carry out wholesale dealings of rice.
  
+ 
