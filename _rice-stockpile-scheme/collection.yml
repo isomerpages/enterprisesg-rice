@@ -1,4 +1,5 @@
 collections:
   rice-stockpile-scheme:
     output: true
-    order: []
+    order:
+      - What is Rice Stockpile Scheme?.md
