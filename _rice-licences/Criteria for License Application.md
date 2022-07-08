@@ -3,12 +3,13 @@ title: Criteria for License Application
 permalink: /rice-licences/permalink
 description: ""
 ---
-# Applicant Criteria
-Business Entity or company must be registered with ACRA 
+**Applicant Criteria**
+
+Only a business entity or company registered with ACRA can apply for a rice license.
 
 # Cost and Validity of Licence
 
-A $50 fee is applicable for licence application. Each licence has lifetime validity.*
+A $50 fee is applicable for each licence application. Each licence has lifetime validity.*
 
 
 
