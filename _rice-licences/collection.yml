@@ -1,6 +1,0 @@
-collections:
-  rice-licences:
-    output: true
-    order:
-      - TYPES OF LICENCES.md
-      - HS CODE.md
