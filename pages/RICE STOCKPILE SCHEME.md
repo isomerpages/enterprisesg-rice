@@ -8,7 +8,7 @@ description: ""
 <table cellspacing="0" cellpadding="10">
 	<tbody>
 		<tr>
-			<td>The Rice Stockpile Scheme (RSS) is operated under the legal framework of the Price Control Act (Cap 244) and the Price Control (Rice) Order 1990 issued by the Minister for Trade and Industry.<br>
+			<td>In Singapore, rice is a controlled item under the Price Control Act (Chapter 244) and the Price Control (Rice) 1990, issued by the Ministry of Trade and Industry (MTI). A licence is required to import (into Singapore or Singapore Free Trade Zone), re-export and carry out wholesale dealings of rice.<br>
 			<br>
 			All stockpile grade rice importers are required&nbsp;to apply for a licence and&nbsp;participate in the Rice Stockpile Scheme. This Scheme ensures an adequate supply of rice in the market.<br>
 			<br>
