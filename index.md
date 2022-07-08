@@ -19,6 +19,7 @@ sections:
           description: Page A is important too
           url: /privacy/
       title: Rice Stockpile Scheme
+      background: /images/rss.png
   - infobar:
       title: Business User Login
       button: Click here
