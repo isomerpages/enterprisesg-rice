@@ -1,5 +1,5 @@
 collections:
-  rice-licences:
+  licences:
     output: true
     order:
       - Types of Rice Licences.md
