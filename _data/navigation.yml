@@ -6,8 +6,6 @@ links:
     collection: licences
   - title: Permits
     collection: permits
-  - title: Apply now
-    url: /Applynow
   - title: "Resources "
     url: /Resources
     sublinks:
