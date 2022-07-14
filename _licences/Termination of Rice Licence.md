@@ -3,7 +3,7 @@ title: Termination of Rice Licence
 permalink: /rice-licences/permalink
 description: ""
 ---
-If a business entity or company with an existing rice licence is no longer active, their license will be 
+If a business entity or company with an existing rice licence no longer need the licence or is no longer active, their license will be terminated/revoked. 
 
 
 **How to Terminate Rice Licence**
@@ -23,5 +23,3 @@ In the event your business entity or company wishes to terminate their rice lice
 5. Fill in the “License Number” and select “License Type” by choosing from the drop down list and then click search
 
 6. Mail license back to EnterpriseSG
-
-
