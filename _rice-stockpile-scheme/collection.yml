@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About.md
+      - Standards for Rice/Prescribed Stockpile Quantity.md
       - Standards for Rice/.keep
       - Standards for Rice/Overview.md
       - Standards for Rice/Stockpile Grade Rice.md
