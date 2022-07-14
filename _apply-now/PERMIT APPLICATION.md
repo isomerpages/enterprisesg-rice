@@ -3,9 +3,8 @@ title: PERMIT APPLICATION
 permalink: /PERMITAPPLICATION
 description: ""
 ---
-
-
 **What is a rice permit required for?**
+
 For all rice consignments, importers are to submit permit declarations for rice imports and exports via the TradeNet® System. Refer [here](-) for more information on permit application. 
 
 
