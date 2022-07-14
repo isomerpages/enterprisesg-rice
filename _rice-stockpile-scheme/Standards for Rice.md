@@ -5,13 +5,17 @@ description: ""
 ---
 **Stockpile Grade Rice**
 
-Under RSS, there are four types of rice classified as stockpile grade rice: 
+Importers of these types of rice for local distribution must join the RSS as licensed stockpile participants:
 - White Rice*
 - Parboiled Rice 
 - Ponni Rice 
 - Basmati Rice 
 
 *Refers to all rice that is white in colour and not broken 
+
+**Non-Stockpile Grade Rice**
+
+Importers of other types of rice such as glutinuous rice, brown rice, red rice, cargo rice 
 
 **Monthly Import Quantity (MIQ)**
 
