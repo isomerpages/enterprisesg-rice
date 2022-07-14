@@ -1,4 +1,5 @@
 collections:
   sttrhth:
     output: true
-    order: []
+    order:
+      - PERMIT APPLICATION.md
