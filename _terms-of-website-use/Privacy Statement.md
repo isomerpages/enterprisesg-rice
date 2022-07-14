@@ -3,9 +3,7 @@ title: Privacy Statement
 permalink: /privacy/
 description: ""
 ---
-
-
-This is a Government of Singapore website..
+This is a Government of Singapore website.
 
 When you visit this website, Enterprise Singapore may collect, handle and disclose personal information about you (“Personal Data”). This includes information related to you as an individual  as well as non-personal information provided by you through your use of this website.
 
@@ -17,7 +15,7 @@ All Personal Data are electronically stored and transmitted using secure systems
 
 This website may contain links to third party, non-Government sites whose data protection and privacy practices may differ from Enterprise Singapore’s practices. We are not responsible for the content and privacy practices of such other websites and encourage you to read the privacy statements of those sites.
 
-1.	Personal Data Processed by Enterprise Singapore
+**1.	Personal Data Processed by Enterprise Singapore**
 
 1.1 Browsing Our Website
 
@@ -78,19 +76,19 @@ We may process your Personal Data if you raise any concerns under our Whistle-Bl
 
 If you follow Enterprise Singapore on social media networks or public forum accounts (e.g. Instagram, Facebook, LinkedIn, Twitter), your social media network or public forum accounts may provide us with information such as your public profile, email address, friends/follower lists on such social media networks and/or public forum accounts. Please refer to the privacy policies of such social media network providers for more information. 
 
-2.	Recipients
+**2.	Recipients**
 
 2.1	Personal Data may be transferred to relevant government agencies for processing, as described in Clauses 1.2 to 1.7, but only when such transfers are not prohibited by law. 
 
-3.	Storage of Personal Data
+**3.	Storage of Personal Data**
 
 3.1	Personal Data collected by Enterprise Singapore will be stored for as long as it is needed for the relevant purposes set out in Clause 1.  
 
-4.	Your Rights
+**4.	Your Rights**
 
 4.1	You may request for access to your Personal Data provided to and stored by Enterprise Singapore, if it is not exempted by law. You may also ask us to correct an error or omission in your Personal Data. Where justified, you may request for your Personal Data to be removed or restricted in processing. You may withdraw consent for your Personal Data to be processed at any time, without affecting any data processing activities that might have taken place before you withdrew consent and without affecting any other existing legal justification of the data processing activities. To exercise the above rights, please email Enterprise Singapore at marketing@enterprisesg.gov.sg.
 
-5.	Cookies on Enterprise Singapore’s website
+**5.	Cookies on Enterprise Singapore’s website**
 
 5.1	This website uses Google Analytics, Adobe Analytics, cookies and similar technologies to distinguish you from other users and to analyse user behaviour and interaction on our website. These technologies help Enterprise Singapore enhance user experience on our website.
 
@@ -98,14 +96,14 @@ Your browser automatically sends certain information to Google Analytics and Ado
 
 Google Analytics and Adobe Analytics cookies are valid for up to two years or unless you clear your cookies. 
 
-6.	Privacy Statement Updates
+**6.	Privacy Statement Updates**
 
 6.1	This Privacy Statement may be revised and updated from time to time at Enterprise Singapore’s sole discretion. Any new updates will always be posted on this webpage and we will try, but are not obliged, to give notice of significant changes in the Privacy Statement. Please check for updates to this Privacy Policy each time you use our website. If you disagree with the changes, please discontinue use of our website. If you continue using this website after changes to this Privacy Statement have been made, such use will constitute acceptance of the updated Privacy Statement. 
 
-7.	Contact Us
+**7.	Contact Us**
 
 7.1	Please contact Enterprise Singapore at marketing@enterprisesg.gov.sg if you have any enquiries or feedback on our Privacy Statement, data protection policies and procedures. You may also contact us if you need more information on, or access to, data that you had previously provided to Enterprise Singapore.
 
  
 
-Updated as at 16 January 2020.
+*Updated as at 16 January 2020.*
