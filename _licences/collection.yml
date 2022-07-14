@@ -2,8 +2,8 @@ collections:
   licences:
     output: true
     order:
-      - Licences/HS Codes and Product Codes.md
-      - Licences/Types of Rice Licences.md
       - Licences/.keep
+      - Licences/Types of Rice Licences.md
+      - Licences/HS Codes and Product Codes.md
       - Application Criteria.md
       - Termination of Rice Licence.md
