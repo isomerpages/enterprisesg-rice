@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - About.md
-      - Rice Standards/DESIGNATED WAREHOUSE OPERATOR.md
       - Rice Standards/.keep
       - Rice Standards/Overview.md
       - Rice Standards/Stockpile Grade Rice.md
       - Rice Standards/Monthly Import Quota (MIQ).md
       - Rice Standards/Prescribed Stockpile Quantity (PSQ).md
+      - Rice Standards/DESIGNATED WAREHOUSE OPERATOR.md
