@@ -4,7 +4,7 @@ permalink: /rice-stockpile-scheme/Standards-for-Rice/permalink
 description: ""
 third_nav_title: Standards for Rice
 ---
-**What is Prescribed Stockpile Quantity?**
+**What is Prescribed Stockpile Quantity (PSQ)?**
    
 
 Prescribed Stockpile Quantity (PSQ) is the quantity of rice that all stockpile participants are obliged to keep in the government-designated warehouses. The Rice Stockpile belongs to the individual stockpile participant, although the Government has the right to acquire the rice (with compensation) during an emergency. 
