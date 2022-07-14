@@ -4,6 +4,8 @@ links:
     collection: rice-stockpile-scheme
   - title: Licences
     collection: licences
+  - title: Permits
+    collection: permits
   - title: Apply now
     url: /Applynow
   - title: "Resources "
@@ -13,5 +15,3 @@ links:
         url: /permalink
   - title: Contact Us
     url: /contact-us/
-  - title: Permits
-    collection: permits
