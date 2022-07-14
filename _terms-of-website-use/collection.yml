@@ -1,0 +1,4 @@
+collections:
+  terms-of-website-use:
+    output: true
+    order: []
