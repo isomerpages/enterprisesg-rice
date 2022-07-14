@@ -13,9 +13,7 @@ Importers of these types of rice for local distribution must join the RSS as lic
 
 *Refers to all rice that is white in colour and not broken 
 
-**Non-Stockpile Grade Rice**
-
-Importers of other types of rice such as glutinuous rice, brown rice, red rice, cargo rice 
+All other types of rice such as glutinuous rice, brown rice, red rice etc. do not need to be stockpiled with the RSS. However, a license is still required to import the rice into Singapore.  
 
 **Monthly Import Quantity (MIQ)**
 
