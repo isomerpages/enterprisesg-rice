@@ -2,6 +2,7 @@ collections:
   licences:
     output: true
     order:
+      - Licences/HS Codes and Product Codes.md
       - Licences/Types of Rice Licences.md
       - Licences/.keep
       - Application Criteria.md
