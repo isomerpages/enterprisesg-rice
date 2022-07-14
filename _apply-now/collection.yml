@@ -1,5 +1,5 @@
 collections:
-  sttrhth:
+  apply-now:
     output: true
     order:
       - PERMIT APPLICATION.md
