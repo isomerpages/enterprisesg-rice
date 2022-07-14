@@ -2,4 +2,5 @@ collections:
   apply-now:
     output: true
     order:
+      - HS Codes and Product Codes.md
       - Permit Application.md
