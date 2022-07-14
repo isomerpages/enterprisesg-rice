@@ -4,6 +4,9 @@ permalink: /licences/Licences/permalink
 description: ""
 third_nav_title: Licences
 ---
+**What is Harmonised System (HS) Code?**
+
+It is an international standardised numerical method for classification of goods. The codes are 
 
 
 | HS Codes for Types of Rice | Product Codes for Types of Rice | Reference Current AHTN2017 (in Current TN for Reference to copy settings if different from B) \[Blank means same as Column B\] |
