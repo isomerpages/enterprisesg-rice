@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About.md
+      - Rice Standards/DESIGNATED WAREHOUSE OPERATOR.md
       - Rice Standards/.keep
       - Rice Standards/Overview.md
       - Rice Standards/Stockpile Grade Rice.md
