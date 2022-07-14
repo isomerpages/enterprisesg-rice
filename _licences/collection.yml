@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Types of Rice Licences.md
-      - Licences/.keep
       - Application Criteria.md
       - Termination of Rice Licence.md
