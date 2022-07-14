@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Permit Application.md
-      - Rejection Codes.md
       - HS Codes and Product Codes.md
+      - Rejection Codes.md
