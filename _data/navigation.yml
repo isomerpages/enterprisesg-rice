@@ -9,7 +9,9 @@ links:
   - title: "Resources "
     url: /Resources
     sublinks:
-      - title: Submenu Title
+      - title: Circulars
+        url: /permalink
+      - title: Terms of Website Use
         url: /permalink
   - title: Contact Us
     url: /contact-us/
