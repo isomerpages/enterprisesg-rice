@@ -2,5 +2,5 @@ collections:
   terms-of-website-use:
     output: true
     order:
-      - terms-of-use.md
+      - Terms of Use.md
       - privacy.md
