@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Terms of Use.md
-      - privacy.md
+      - Privacy Statement.md
