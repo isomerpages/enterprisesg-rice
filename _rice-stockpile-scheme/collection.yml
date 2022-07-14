@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - About.md
-      - Standards for Rice/.keep
-      - Standards for Rice/Overview.md
-      - Standards for Rice/Stockpile Grade Rice.md
-      - Standards for Rice/Monthly Import Quota (MIQ).md
-      - Standards for Rice/Prescribed Stockpile Quantity (PSQ).md
+      - Rice Standards/.keep
+      - Rice Standards/Overview.md
+      - Rice Standards/Stockpile Grade Rice.md
+      - Rice Standards/Monthly Import Quota (MIQ).md
+      - Rice Standards/Prescribed Stockpile Quantity (PSQ).md
