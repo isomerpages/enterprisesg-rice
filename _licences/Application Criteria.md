@@ -9,6 +9,6 @@ Only business entity or company registered with ACRA can apply for a rice licens
 
 **Fees Payable**
 
-A $50 fee is applicable for each licence application. Each licence has lifetime validity.*
+A $50* licence fee is applicable for each application. Each licence has lifetime validity.*
 
 *Subject to any legislation changes by Enterprise Singapore
