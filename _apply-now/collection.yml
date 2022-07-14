@@ -2,4 +2,4 @@ collections:
   apply-now:
     output: true
     order:
-      - PERMIT APPLICATION.md
+      - Permit Application.md
