@@ -1,4 +1,5 @@
 collections:
   permits:
     output: true
-    order: []
+    order:
+      - Permit Application.md
