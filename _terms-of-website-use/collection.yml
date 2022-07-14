@@ -1,6 +1,0 @@
-collections:
-  terms-of-website-use:
-    output: true
-    order:
-      - Terms of Use.md
-      - Privacy Statement.md
