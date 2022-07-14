@@ -2,6 +2,7 @@ collections:
   rice-stockpile-scheme:
     output: true
     order:
+      - Standards for Rice/Stockpile Grade Rice.md
       - Standards for Rice/Monthly Import Quota (MIQ).md
       - Standards for Rice/Standards for Rice.md
       - Standards for Rice/.keep
