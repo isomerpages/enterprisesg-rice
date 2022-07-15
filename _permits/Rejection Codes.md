@@ -13,3 +13,31 @@ There are three categories of codes: Approval (A), Pending (P) and Rejected (R).
 If a Rejection code is reflected please take the necessary steps advised in the rejection code message to ensure your submission is accurate. Refer below for more detailed steps you should take when you get a rejection code. 
 
 **What does each code mean and entail?**
+
+
+
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| R01     | Text     | Text     |
+| R03     | Text     | Text     |
+| R08     | Text     | Text     |
+| R12     | Text     | Text     |
+| R14     | Text     | Text     |
+| R16     | Text     | Text     |
+| R17     | Text     | Text     |
+| R18     | Text     | Text     |
+| R19     | Text     | Text     |
+| R20    | Text     | Text     |
+| R21    | Text     | Text     |
+| R22     | Text     | Text     |
+| R23     | Text     | Text     |
+| R24     | Text     | Text     |
+| R25     | Text     | Text     |
+| R26     | Text     | Text     |
+| R27     | Text     | Text     |
+| R03     | Text     | Text     |
+
+
+
