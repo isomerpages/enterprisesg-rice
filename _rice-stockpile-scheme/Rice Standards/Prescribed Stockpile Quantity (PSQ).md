@@ -4,8 +4,6 @@ permalink: /rice-stockpile-scheme/Standards-for-Rice/permalink
 description: ""
 third_nav_title: Rice Standards
 ---
-
-
 **What is Prescribed Stockpile Quantity (PSQ)?**
    
 
@@ -25,8 +23,8 @@ The prescribed stockpile quantity depends on the type of stockpile grade rice im
 
 **Storage of PSQ Rice**
 
-The rice shall not be kept in the warehouse for more than a year to preserve freshness. 
+The rice shall not be kept in the warehouse for **more than a year** to preserve freshness. 
+
+For all rice consignments, importers are to submit declarations for rice imports and exports. Refer [here](-) for more details on rice permits. Rice importers can sell either to wholesalers or directly to retailers. The stockpile participants may establish their own local distribution network.  
   
-For all rice consignments, importers are to submit declarations for rice imports and exports. Rice importers can sell either to wholesalers or directly to retailers. The stockpile participants may establish their own local distribution network.  
-  
-For rice traders who purely deal with wholesaling business, they shall hold a valid wholesale license.
+For rice traders who purely deal with wholesaling business, they need to have a valid wholesale license.
