@@ -11,8 +11,16 @@ description: ""
 | Procedures  | 
 | -------- | 
 | 1. Go to GoBusiness Licencing Portal Website (hyper link) 
-2. Under 
-2. Retrieve and complete the application form from FormSG 
+2. Under "Search", type in "rice"
+3. Under the "Rice Licence Search Results, click "Add to Selection"
+4. Click "Review & Apply", "Proceed" and "Apply" 
+5. Select your preferred login method 
+6. Read the terms of use and checked the box 
+7. Select the appropriate radio button 
+8. Fill in Applicant's particulars, address 
+9. Fill in Organisation Details 
+10. 
+11. Retrieve and complete the application form from FormSG 
 
 
 
