@@ -6,7 +6,7 @@ description: ""
 ## **Application of Rice Licence**
 | Access Required|
 | -------- |
-| 1. Corppass acccess     | 
+| 1. Corpate pass acccess     | 
 
 
 
