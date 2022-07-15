@@ -14,12 +14,13 @@ In the event your business entity or company wishes to terminate their rice lice
 
 1. Go to License One Website [https://licence1.business.gov.sg/licence1/authentication/showLogin.action](https://licence1.business.gov.sg/licence1/authentication/showLogin.action)
 
-2. On the website, click “Login via CorpPass”, under “Select your Profile” click “Company” then type in the “UEN Number” then click “Next”
+2. On the website, click “Login via CorpPass”
 
 3. Under “License Application”, select “Cancel Existing License”
 
-4. Click on “Enterprise Singapore” and select “Rice License”, then click “Next”
+4. Click on “Enterprise Singapore” and select “Rice License”
 
-5. Fill in the “License Number” and select “License Type” by choosing from the drop down list and then click search
+5. Fill in the “License Number” and select “License Type”
+6. 
 
 6. Mail license back to EnterpriseSG
