@@ -8,12 +8,17 @@ description: ""
 | -------- |
 | 1. Corpate pass acccess     | 
 
+| Procedures  | 
+| -------- | 
+| 1. Go to GoBusiness Licencing Portal Website (hyper link) 
+2. Under 
+2. Retrieve and complete the application form from FormSG 
 
 
 
 ## **Application of Temporary Rice Licence**
 
-Individuals/organisation can apply for a temporary rice licence for **an one-off**  importation  of rice for personal/commerical reasons
+Individuals/organisation can apply for a temporary rice licence for **an one-off**  importation  of rice for personal/commerical reasons. 
 
 
 | Documents Required|
