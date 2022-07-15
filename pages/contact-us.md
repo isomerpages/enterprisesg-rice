@@ -21,5 +21,5 @@ contacts:
       - phone: ""
       - email: ""
       - other: "https://form.gov.sg/6297f1966cf13d0012fd9b3c "
-    title: Feedback
+    title: Enquiry Form
 ---
