@@ -37,7 +37,5 @@ If a Rejection code is reflected please take the necessary steps advised in the 
 | R25     | Text     | Text     |
 | R26     | Text     | Text     |
 | R27     | Text     | Text     |
-| R03     | Text     | Text     |
-
-
-
+| R28    | Text     | Text     |
+| R29     | Text     | Text     |
