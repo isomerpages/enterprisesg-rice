@@ -21,6 +21,5 @@ In the event your business entity or company wishes to terminate their rice lice
 4. Click on “Enterprise Singapore” and select “Rice License”
 
 5. Fill in the “License Number” and select “License Type”
-6. 
-
-6. Mail license back to EnterpriseSG
+6. Submit the application
+6. Mail license back to EnterpriseSG (if applicable) 
