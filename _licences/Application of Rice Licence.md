@@ -19,8 +19,10 @@ description: ""
 7. Select the appropriate radio button 
 8. Fill in Applicant's particulars, address 
 9. Fill in Organisation Details 
-10. 
-11. Retrieve and complete the application form from FormSG 
+10. Read the licencing coniditons and check the box if you agree with the **Licencing Conditions**
+11. Under "Licence Selection", select the licence you would like to apply and the type of rice.
+12. To be continue 
+13. Retrieve and complete the application form from FormSG 
 
 
 
