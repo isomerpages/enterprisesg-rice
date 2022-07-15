@@ -25,6 +25,3 @@ The prescribed stockpile quantity depends on the type of stockpile grade rice im
 
 The rice shall not be kept in the warehouse for **more than a year** to preserve freshness. 
 
-For all rice consignments, importers are to submit declarations for rice imports and exports. Refer [here](-) for more details on rice permits. Rice importers can sell either to wholesalers or directly to retailers. The stockpile participants may establish their own local distribution network.  
-  
-For rice traders who purely deal with wholesaling business, they need to have a valid wholesale license.
