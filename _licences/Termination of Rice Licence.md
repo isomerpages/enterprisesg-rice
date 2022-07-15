@@ -22,4 +22,8 @@ In the event your business entity or company wishes to terminate their rice lice
 
 5. Fill in the “License Number” and select “License Type”
 6. Submit the application
-6. Mail license back to EnterpriseSG (if applicable) 
+7. Mail license back to EnterpriseSG (if applicable)
+
+###### Upon termination of licence, a 3-month notification period will be given. During this period, you are required to sell or dispose half of your stockpile quantity of rice within 2-month of the notification and the remaining before the end of the 3-month. 
+
+###### Your organisation and directors will also be subjected to a 6-month blackout period where no new rice licence(s) can be applied. 
