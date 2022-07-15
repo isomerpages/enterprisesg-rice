@@ -17,4 +17,9 @@ contacts:
       - email: rice@enterprisesg.gov.sg
       - other: ""
     title: "General Enquiries "
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Feedback form
+    title: Feedback
 ---
