@@ -20,6 +20,6 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: Feedback form
+      - other: "https://form.gov.sg/6297f1966cf13d0012fd9b3c "
     title: Feedback
 ---
