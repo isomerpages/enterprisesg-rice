@@ -8,6 +8,8 @@ description: ""
 
 **What are the types of codes?**
 
-There are three categories of codes: Approval (A), Pending (P) and Rejected (R). If you see a code beginning with R, please take the necessary steps advised in the rejection code message to ensure your submission is accurate. Refer below for more detailed steps you should take when you get a rejection code. 
+There are three categories of codes: Approval (A), Pending (P) and Rejected (R). If an Approval code is reflected, no further action is required on your end. If a Pending code is reflected XXXX
+
+If a Rejection code is reflected please take the necessary steps advised in the rejection code message to ensure your submission is accurate. Refer below for more detailed steps you should take when you get a rejection code. 
 
 **What does each code mean and entail?**
