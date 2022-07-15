@@ -11,7 +11,9 @@ description: ""
 
 
 
-## **Application of Temporary Licence**
+## **Application of Temporary Rice Licence**
+
+Individuals/organisation can apply for a temporary rice licence for **an one-off**  importation  of rice for personal/commerical reasons
 
 
 | Documents Required|
