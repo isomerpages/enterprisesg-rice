@@ -12,7 +12,7 @@ In the event your business entity or company wishes to terminate their rice lice
 
   
 
-1. Go to LicenseOne Website [https://licence1.business.gov.sg/licence1/authentication/showLogin.action](https://licence1.business.gov.sg/licence1/authentication/showLogin.action)
+1. Go to GoBusiness Website [here](https://licence1.business.gov.sg/licence1/authentication/showLogin.action)
 
 2. On the website, click “Login via CorpPass”
 
