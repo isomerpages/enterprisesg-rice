@@ -15,11 +15,12 @@ Please refer [here](PSQ link) for more details regarding PSQ.
 
 **How to apply for a Rice Licence?**
 
-To apply for a Rice Licence, you would first require a Corppass account for your business entity or company.
+To apply for a Rice Licence, you would first require a Corppass^ account for your business entity or company.
 
 With your Corppass account ready, please refer to this detailed step-by-step application [guide](/files/Rice%20Licence%20Application%20Guide%20on%20GoBusiness.pdf) to apply for a Rice Licence.
 
-## **Application of Temporary Rice Licence**
+^Corpass is the authorisation system for entities to manage digital service access of employees who need to perform corporate transactions. For more details, please refer to this link (https://www.corppass.gov.sg/cpauth/login/homepage?URL=%2F&TAM_OP=login). 
+## **Application of Temporary Rice Licence (6)**
 
 Individuals/organisation can apply for a temporary rice licence for **an one-off**  importation  of rice for personal/commerical reasons. 
 
@@ -33,7 +34,7 @@ Individuals/organisation can apply for a temporary rice licence for **an one-off
 | Procedures  | 
 | -------- | 
 | 1. Prepare the document(s) as mentioned above 
-2. Retrieve and complete the application form from FormSG 
+2. Retrieve and complete the application form from FormSG[Link]
 
 It will take up to 3 working days for the application to be received. The applicant will be notified by email upon approval of the application. 
 
