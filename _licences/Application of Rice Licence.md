@@ -3,7 +3,7 @@ title: Application of Rice Licence
 permalink: /licences/applicationoflicence
 description: ""
 ---
-## **Application of Rice Licence**
+## **Application of Rice Licence (1-5)**
 
 **What does application of a Rice Licence entail?** 
 
