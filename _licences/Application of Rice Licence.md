@@ -22,16 +22,14 @@ For details regarding the Rice Stockpile Scheme such as PSQ, please refer to lin
 | 1. Go to GoBusiness Licencing Portal Website (hyper link) 
 2. Under "Search", type in "rice"
 3. Under the "Rice Licence Search Results, click "Add to Selection"
-4. Click "Review & Apply", "Proceed" and "Apply" 
-5. Select your preferred login method 
-6. Read the terms of use and checked the box 
-7. Select the appropriate radio button 
-8. Fill in Applicant's particulars, address 
-9. Fill in Organisation Details 
-10. Read the licencing coniditons and check the box if you agree with the **Licencing Conditions**
-11. Under "Licence Selection", select the licence you would like to apply and the type of rice.
-12. To be continue 
-13. Retrieve and complete the application form from FormSG 
+4. Click "Review & Apply", "Proceed" and "Apply"
+5. Login using your preferred login method
+6. Fill in the necessary details in the application form (please refer to enclosed PDF for a detailed guide) 
+
+11. Read the licencing coniditons and check the box if you agree with the **Licencing Conditions**
+12. Under "Licence Selection", select the licence you would like to apply and the type of rice.
+13. To be continue 
+14. Retrieve and complete the application form from FormSG 
 
 
 
