@@ -15,6 +15,4 @@ Similar to a licence application, you would require a registered Corppass accoun
 
 **Find out more!**
 
-For more information, please visit the Trade Exchange website.
-
 For more information on **import and export procedures**, **customs schemes & licences**, etc, visit Singapore Customs website [here](https://www.customs.gov.sg/).
