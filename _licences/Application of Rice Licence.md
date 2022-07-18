@@ -5,9 +5,9 @@ description: ""
 ---
 ## **Application of Rice Licence**
 
-What does application of a Rice Licence entail? 
+**What does application of a Rice Licence entail?** 
 
-Upon application of rice licence, Applicants are required to first fulfill their Prescribed Stockpile Quantity (PSQ) in the designated warehouse storage and maintain at all times. Applicants are given 3-month upon approval of licence, or their first import, whichever earlier, to meet their PSQ requirements. When there is no import activity within the first 3-month of the issuance of licence, Applicants are advised to buy rice locally and to stockpile in the designated warehouse storage. 
+Upon application of rice licence, Applicants are required to first fulfill their Prescribed Stockpile Quantity (PSQ) in the designated warehouse storage and maintain at all times. Applicants are given **3-month** upon approval of licence, or their first import, whichever earlier, to meet their PSQ requirements. When there is no import activity within the first **3-month** of the issuance of licence, Applicants are advised to buy rice locally and to stockpile in the designated warehouse storage. 
 
 | Access Required|
 | -------- |
