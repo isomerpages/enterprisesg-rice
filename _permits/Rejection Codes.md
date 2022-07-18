@@ -36,6 +36,6 @@ If a Rejection code is reflected please take the necessary steps advised in the 
 | R24     | PLEASE VERIFY REASON IN CA/SC CODE 1 FIELD.     | Text     |
 | R25     | PLEASE STATE MONTH/ APPROVAL NO. IN CA/SC CODE 2 FIELD.     | Text     |
 | R26     | PLEASE STATE MONTH/ APPROVAL NO. IN CA/SC CODE 2 FIELD.     | Text     |
-| R27     | PLEASE STATE PREVIOUS INWARD PERMIT NUMBER IN “PREVIOUS PERMIT NO.” FIELD.ext     | Text     |
-| R28    | Text     | Text     |
-| R29     | Text     | Text     |
+| R27     | PLEASE STATE PREVIOUS INWARD PERMIT NUMBER IN “PREVIOUS PERMIT NO.” FIELD.  | Text     |
+| R28    | PLEASE STATE RICE LICENCE NO. IN LICENCE DETAILS FIELD.     | Text     |
+| R29     | DECLARED QUANTITY IS GREATER THAN BALANCE QUANTITY OF MAX IMPORT QUANTITY.     | Text     |
