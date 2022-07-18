@@ -5,7 +5,9 @@ description: ""
 ---
 **When does a Rice Licence need to be terminated?**
 
-If a business entity or company with an existing rice licence **no longer needs the licence or the company is longer active**, they should terminate their rice licence.
+If a business entity or company with an existing rice licence **no longer needs the licence or no longer on a going-concern basis^**, they should terminate their rice licence.
+
+*Kindly submit the rice licence termination application before submitting an application to ACRA to change the entity's status. *
 
 **What does termination of a Rice Licence entail?**
 
@@ -29,6 +31,4 @@ In the event your business entity or company wishes to terminate their rice lice
 4. Select "Enterprise Singapore" and "Rice Licence"
 5. Fill in the "Licence Number" and select "Licence Type"
 6. Submit the application 
-7. Mail the licence back to EnterpriseSG, if applicable 
-
-
+7. Mail the licence back to EnterpriseSG, if applicable
