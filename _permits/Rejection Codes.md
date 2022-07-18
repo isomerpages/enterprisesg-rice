@@ -18,10 +18,10 @@ If a Rejection code is reflected please take the necessary steps advised in the 
 
 
 
-| Rejection Code | Automated Message | Steps to take |
+| Rejection Code | Automated Message  | Steps to take |
 | -------- | -------- | -------- |
 | R01     | PLEASE SUBMIT SEPARATE PERMIT APPLICATIONS FOR STOCKPILE GRADE RICE AND NON-STOCKPILE GRADE RICE.    | Text     |
-| R03     | Text     | Text     |
+| R03     | PLEASE SUBMIT SEPARATE PERMIT APPLICATIONS FOR MIQ RICE AND PSQ RICE.     | Text     |
 | R08     | Text     | Text     |
 | R12     | Text     | Text     |
 | R14     | Text     | Text     |
