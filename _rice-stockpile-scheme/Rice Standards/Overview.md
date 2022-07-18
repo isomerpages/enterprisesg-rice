@@ -16,4 +16,4 @@ What are stockpile graded rice?
 3. Ponni Rice
 4. Basmati Rice 
 
-^White Rice refers to all type of rice that is white, without having other ingredients added. 
+*^White Rice refers to all type of rice that is white, without having other ingredients added*.
