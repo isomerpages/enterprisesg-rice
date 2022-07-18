@@ -13,25 +13,11 @@ Upon application of rice licence, Applicants are required to first fulfill their
 
 For details regarding the Rice Stockpile Scheme such as PSQ, please refer to link (add link). 
 
-| Access Required|
-| -------- |
-| 1. Corpate pass acccess     | 
+**How to apply for a Rice Licence?**
 
-| Procedures  | 
-| -------- | 
-| 1. Go to GoBusiness Licencing Portal Website (hyper link) 
-2. Under "Search", type in "rice"
-3. Under the "Rice Licence Search Results, click "Add to Selection"
-4. Click "Review & Apply", "Proceed" and "Apply"
-5. Login using your preferred login method
-6. Fill in the necessary details in the application form (please refer to enclosed PDF for a detailed guide) 
+To apply for a Rice Licence, you would require a Corppass account for your business entity or company. You may apply for one here.
 
-11. Read the licencing coniditons and check the box if you agree with the **Licencing Conditions**
-12. Under "Licence Selection", select the licence you would like to apply and the type of rice.
-13. To be continue 
-14. Retrieve and complete the application form from FormSG 
-
-
+With your Corppass account ready, please refer to this detailed step-by-step application guide to apply for a Rice Licence.
 
 ## **Application of Temporary Rice Licence**
 
