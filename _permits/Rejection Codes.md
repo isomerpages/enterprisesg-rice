@@ -28,10 +28,10 @@ If a Rejection code is reflected please take the necessary steps advised in the 
 | R16     | PLEASE VERIFY DESCRIPTION OF GOODS AGAINST THE COMMERCIAL INVOICE.     | Text     |
 | R17     | PLEASE VERIFY IMPORTER'S NAME AGAINST THE COMMERCIAL INVOICE.     | Text     |
 | R18     | DECLARING AGENT/ IMPORTER REQUESTED TO WITHDRAW THE APPLICATION.     | Text     |
-| R19     | Text     | Text     |
-| R20    | Text     | Text     |
-| R21    | Text     | Text     |
-| R22     | Text     | Text     |
+| R19     | PRODUCT CODE DECLARED IS DIFFERENT FROM THAT STATED IN INVOICE.     | Text     |
+| R20    |  HS CODE DECLARED IS DIFFERENT FROM THAT STATED IN INVOICE.     | Text     |
+| R21    | HS CODE AND PRODUCT CODE DECLARED DO NOT MATCH.     | Text     |
+| R22     | PLEASE SUBMIT NEW APPLICATION WITH AMENDED INVOICE SPECIFYING THE TYPE OF RICE.     | Text     |
 | R23     | Text     | Text     |
 | R24     | Text     | Text     |
 | R25     | Text     | Text     |
