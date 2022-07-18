@@ -5,7 +5,7 @@ description: ""
 ---
 **When does a Rice Licence need to be terminated?**
 
-If a business entity or company with an existing rice licence no longer needs the licence or is no longer active, they should terminate their rice licence.
+If a business entity or company with an existing rice licence **no longer needs the licence or the company is longer active**, they should terminate their rice licence.
 
 **What does termination of a Rice Licence entail?**
 
@@ -15,7 +15,7 @@ Upon termination of licence, a 3-month notification period will be given. During
 
 Your business entity or company and directors will also be subjected to a 6-month blackout period where no new rice licence(s) can be applied.
 
-If you have any queries regarding the 3-month notification period for rice disposal, please contact SSW (Contact link)
+Please arrange the 3-month notification period for rice disposal/sale of rice with the designated warehouse provider.
 
 **How to Terminate Rice Licence**
 
