@@ -17,7 +17,7 @@ For details regarding the Rice Stockpile Scheme such as PSQ, please refer to lin
 
 To apply for a Rice Licence, you would require a Corppass account for your business entity or company. You may apply for one here.
 
-With your Corppass account ready, please refer to this detailed step-by-step application guide to apply for a Rice Licence.
+With your Corppass account ready, please refer to this detailed step-by-step application [guide](/files/Rice%20Licence%20Application%20Guide%20on%20GoBusiness.pdf) to apply for a Rice Licence.
 
 ## **Application of Temporary Rice Licence**
 
