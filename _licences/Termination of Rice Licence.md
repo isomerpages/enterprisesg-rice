@@ -15,6 +15,8 @@ Upon termination of licence, a 3-month notification period will be given. During
 
 Your business entity or company and directors will also be subjected to a 6-month blackout period where no new rice licence(s) can be applied.
 
+If you have any queries regarding the 3-month notification period for rice disposal, please contact SSW (Contact link)
+
 **How to Terminate Rice Licence**
 
 In the event your business entity or company wishes to terminate their rice licence, please follow the steps below to do so: 
