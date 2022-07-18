@@ -27,7 +27,7 @@ If a Rejection code is reflected please take the necessary steps advised in the 
 | R14     | PERMIT APPLICATION IS NOT APPROVED. PLEASE VERIFY NET WEIGHT IN TONNE AGAINST THE COMMERCIAL INVOICE.      | Text     |
 | R16     | PLEASE VERIFY DESCRIPTION OF GOODS AGAINST THE COMMERCIAL INVOICE.     | Text     |
 | R17     | PERMIT APPLICATION IS NOT APPROVED. PLEASE VERIFY IMPORTER'S NAME AGAINST THE COMMERCIAL INVOICE.     | Text     |
-| R18     | Text     | Text     |
+| R18     | PERMIT APPLICATION IS NOT APPROVED. DECLARING AGENT/ IMPORTER REQUESTED TO WITHDRAW THE APPLICATION.     | Text     |
 | R19     | Text     | Text     |
 | R20    | Text     | Text     |
 | R21    | Text     | Text     |
