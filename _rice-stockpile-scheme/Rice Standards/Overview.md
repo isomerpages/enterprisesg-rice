@@ -8,4 +8,3 @@ third_nav_title: Rice Standards
 
 The Rice Stockpile Scheme (RSS) is operated under the legal framework of the Price Control ACt (Cap 224) [link pca]
 
-Each 
