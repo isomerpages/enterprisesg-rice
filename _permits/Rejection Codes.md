@@ -4,7 +4,7 @@ permalink: /permits/permalink
 description: ""
 ---
 **When will I see these codes?**
-
+After submitting a permit application on TradeNet Portal 
 
 **What are the types of codes?**
 
