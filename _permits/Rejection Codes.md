@@ -32,10 +32,10 @@ If a Rejection code is reflected please take the necessary steps advised in the 
 | R20    |  HS CODE DECLARED IS DIFFERENT FROM THAT STATED IN INVOICE.     | Text     |
 | R21    | HS CODE AND PRODUCT CODE DECLARED DO NOT MATCH.     | Text     |
 | R22     | PLEASE SUBMIT NEW APPLICATION WITH AMENDED INVOICE SPECIFYING THE TYPE OF RICE.     | Text     |
-| R23     | Text     | Text     |
-| R24     | Text     | Text     |
-| R25     | Text     | Text     |
-| R26     | Text     | Text     |
+| R23     | PLEASE STATE REASON IN CA/SC CODE 1 FIELD.     | Text     |
+| R24     | PLEASE VERIFY REASON IN CA/SC CODE 1 FIELD.     | Text     |
+| R25     | PLEASE STATE MONTH/ APPROVAL NO. IN CA/SC CODE 2 FIELD.     | Text     |
+| R26     | PLEASE STATE MONTH/ APPROVAL NO. IN CA/SC CODE 2 FIELD.     | Text     |
 | R27     | Text     | Text     |
 | R28    | Text     | Text     |
 | R29     | Text     | Text     |
