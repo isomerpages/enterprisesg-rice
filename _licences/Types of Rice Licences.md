@@ -3,7 +3,7 @@ title: Types of Rice Licences
 permalink: /rice-licences/permalink
 description: ""
 ---
-There are 6 types of rice licences a business entity/company can apply for:
+There are 6 types of rice licences a business entity/company can apply for: 
 
 | Type | Licence | Description |
 | -------- | -------- | -------- |
@@ -13,3 +13,6 @@ There are 6 types of rice licences a business entity/company can apply for:
 | 4 | License to import for manufacturing| Import of 100% broken white rice for manufacturing purposes. |
 | 5 | Licence to carry on wholesale dealings in rice     |Carry out wholesale dealings of all type of rice in Singapore. Import of rice is not permitted.|
 | 6 | Temporary Licence  |  One-off importation of rice for personal/commercial reason(s) and the parcel must be less than 100KG.    |
+
+
+*Do note that the application process for the Rice Licences 1-5 differs from the application process for a Temporary Licence. Refer to the next page for more details on application.*
