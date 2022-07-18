@@ -9,9 +9,10 @@ For all rice consignments, importers are to submit permit declarations for rice 
 
 Rice importers can sell either to wholesalers or directly to retailers. The stockpile participants may establish their own local distribution network.  
 
+**Find out more!**
+
 For more information, please visit the Trade Exchange website.
 
-For the List of TradeNet Solution Providers, click here.
+For more information on TradeNet Solution Providers, click here.
 
-To read more about import and export procedures, customs schemes & licences, etc, kindly visit Singapore Customs website:
-http://www.customs.gov.sg
+For more information on **import and export procedures**, **customs schemes & licences**, etc, visit Singapore Customs website [here](https://www.customs.gov.sg/). 
