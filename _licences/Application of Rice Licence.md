@@ -7,11 +7,11 @@ description: ""
 
 **What does application of a Rice Licence entail?** 
 
-Applicant of stockpile grade rice is required to participate in the **Rice Stockpile Scheme.** 
+Applicant of stockpile grade rice is required to participate in the **Rice Stockpile Scheme.** (What is [Rice Stockpile Scheme ](Link to RSS)?)
 
-Upon application of rice licence, Applicants are required to first fulfill their Prescribed Stockpile Quantity (PSQ) in the designated warehouse storage and maintain at all times. Applicants are given **3-month** upon approval of licence, or their first import, whichever earlier, to meet their PSQ requirements. When there is no import activity within the first **3-month** of the issuance of licence, Applicants are advised to buy rice locally and to stockpile in the designated warehouse storage. 
+Upon application of a Rice Licence, applicants are required to first fulfill their Prescribed Stockpile Quantity (PSQ) in the designated warehouse storage and maintain the PSQ at all times. Applicants are given **3-months** upon approval of licence, or their first import, whichever earlier, to meet their PSQ requirements. If there is no import activity within the first **3-months** of the issuance of licence, applicants are advised to buy rice locally and to stockpile in the designated warehouse storage. 
 
-For details regarding the Rice Stockpile Scheme such as PSQ, please refer to link (add link). 
+Please refer [here](PSQ link) for more details regarding PSQ.
 
 **How to apply for a Rice Licence?**
 
