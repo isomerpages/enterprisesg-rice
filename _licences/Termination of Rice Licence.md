@@ -17,7 +17,7 @@ Your business entity or company and directors will also be subjected to a 6-mont
 
 **How to Terminate Rice Licence**
 
-In the event your business entity or company wishes to terminate their rice licence, please follow the steps below to do so: (KIV)
+In the event your business entity or company wishes to terminate their rice licence, please follow the steps below to do so: 
 
 
 1. Login to the GoBusiness Website  [here](https://licence1.business.gov.sg/licence1/authentication/showLogin.action)
@@ -27,4 +27,3 @@ In the event your business entity or company wishes to terminate their rice lice
 5. Fill in the “Licence Number” and select “Licence Type”
 6. Submit the application
 7. Mail license back to EnterpriseSG (if applicable)
-
