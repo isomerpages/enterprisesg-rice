@@ -18,7 +18,7 @@ If a Rejection code is reflected please take the necessary steps advised in the 
 
 
 
-| Column 1 | Column 2 | Column 3 |
+| Rejection Code | Automated Message | Steps to take |
 | -------- | -------- | -------- |
 | R01     | Text     | Text     |
 | R03     | Text     | Text     |
