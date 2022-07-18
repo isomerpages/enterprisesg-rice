@@ -19,13 +19,16 @@ Please arrange the 3-month notification period for rice disposal/sale of rice wi
 
 **How to Terminate Rice Licence**
 
-In the event your business entity or company wishes to terminate their rice licence, please follow the steps below to do so: 
+In the event your business entity or company wishes to terminate their rice licence, please follow the steps below:
+
+|  | 
+| -------- | 
+| 1. Login to GoBusiness Website [Link]
+2. Login via your preferred mode
+3. Under "Licence Application", select "Cancel Existing Licence"
+4. Select "Enterprise Singapore" and "Rice Licence"
+5. Fill in the "Licence Number" and select "Licence Type"
+6. Submit the application 
+7. Mail the licence back to EnterpriseSG, if applicable 
 
 
-1. Login to the GoBusiness Website  [here](https://licence1.business.gov.sg/licence1/authentication/showLogin.action)
-2. Under the Login options, select "via Business users" and log in with your Singpass. 
-3. Under “Licence Application”, select “Cancel Existing Licence”
-4. Click on “Enterprise Singapore” and select “Rice Licence”
-5. Fill in the “Licence Number” and select “Licence Type”
-6. Submit the application
-7. Mail license back to EnterpriseSG (if applicable)
