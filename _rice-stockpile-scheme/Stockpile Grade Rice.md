@@ -3,7 +3,6 @@ title: Stockpile Grade Rice
 permalink: /rice-stockpile-scheme/Standards-for-Rice/permalink
 description: ""
 ---
-
 **What is Stockpile Grade Rice?**
 
 | |
