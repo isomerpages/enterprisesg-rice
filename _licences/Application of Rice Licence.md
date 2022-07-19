@@ -26,6 +26,17 @@ Please refer [here](PSQ link) for more details regarding PSQ.
 
 **How to apply for a Rice Licence?**
 
+|  || 
+| -------- | -------- | -------- | -------|
+| **MIQ** | Minimum 50 MT per month   | No minimum import quota but maximum import quota is set based on past 6 months' imports  | Not Applicable 
+
+
+| Column 1 |
+| -------- | -------- | -------- |
+| To apply for a Rice Licence, you would first require a Corppass account for your business entity or company.
+    | Text     | Text     |
+
+
 To apply for a Rice Licence, you would first require a Corppass account for your business entity or company.
 
 With your Corppass* account ready, please refer to this detailed step-by-step application [guide](/files/Rice%20Licence%20Application%20Guide%20on%20GoBusiness.pdf) to apply for a Rice Licence.
