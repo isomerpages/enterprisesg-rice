@@ -12,6 +12,4 @@ Please contact SSW for more information on their charges, locations and procedur
 |  | Telephone Number | 
 | -- | -------- | 
 | General Office     | 6250-8047/8673     | 
-| New account registration | 6758-9533 | 
-
-
+| New account registration | 6758-9533 |
