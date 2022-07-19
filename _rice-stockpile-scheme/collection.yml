@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Rice Standards/.keep
-      - Rice Standards/Overview.md
       - Rice Standards/Stockpile Grade Rice.md
       - Rice Standards/Monthly Import Quota (MIQ) and Prescribed Stockpile
         Quantity (PSQ).md
