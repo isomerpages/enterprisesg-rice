@@ -26,20 +26,15 @@ Please refer [here](PSQ link) for more details regarding PSQ.
 
 **How to apply for a Rice Licence?**
 
-|  || 
-| -------- | -------- | -------- | -------|
-| **MIQ** | Minimum 50 MT per month   | No minimum import quota but maximum import quota is set based on past 6 months' imports  | Not Applicable 
+|  |  | 
+| -- | -------- | 
+| 1.  To apply for a Rice Licence, you would first require a Corppass account for your business entity or company.
+| 2. With your Corppass* account ready, please refer to this detailed step-by-step application [guide](/files/Rice%20Licence%20Application%20Guide%20on%20GoBusiness.pdf) to apply for a Rice Licence.
+3. Register with Singapore Storage & Warehouse Pte Ltd [link to SSW page] 
+
+ 
 
 
-| Column 1 |
-| -------- | -------- | -------- |
-| To apply for a Rice Licence, you would first require a Corppass account for your business entity or company.
-    | Text     | Text     |
-
-
-To apply for a Rice Licence, you would first require a Corppass account for your business entity or company.
-
-With your Corppass* account ready, please refer to this detailed step-by-step application [guide](/files/Rice%20Licence%20Application%20Guide%20on%20GoBusiness.pdf) to apply for a Rice Licence.
 
 *Corpass is the authorisation system for entities to manage digital service access of employees who need to perform corporate transactions. For more details, please refer [here](https://www.corppass.gov.sg/cpauth/login/homepage?URL=%2F&TAM_OP=login).
 ## **Application of Temporary Rice Licence (6)**
