@@ -4,19 +4,15 @@ permalink: /permits/permalink
 description: ""
 ---
 **When will I see these codes?**
-After submitting a permit application on TradeNet Portal 
+After submitting a permit application on TradeNet Portal, do wait 3-4 working days for the status to be updated. 
 
 **What are the types of codes?**
 
-There are three categories of codes: Approval (A), Pending (P) and Rejected (R). If an Approval code is reflected, no further action is required on your end. If a Pending code is reflected XXXX
+There are three categories of codes: Approval (A), Pending (P) and Rejected (R). If an Approval code is reflected, no further action is required on your end. 
 
 If a Rejection code is reflected please take the necessary steps advised in the rejection code message to ensure your submission is accurate. Refer below for more detailed steps you should take when you get a rejection code. 
 
 **What does each code mean and entail?**
-
-
-
-
 
 | Rejection Code | Automated Message Action to take  | Explanation |
 | -------- | -------- | -------- |
