@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: "Enterprise SG "
+agency_name: Enterprise Singapore (Rice Control Unit)
 locations:
   - address:
       - 230 Victoria Street
