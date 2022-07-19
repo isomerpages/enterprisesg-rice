@@ -25,5 +25,3 @@ Monthly Import Quantity (MIQ) is a pre-committed import quantity by stockpile pa
 | **MIQ** | Minimum 50 MT per month   | No minimum import quota but maximum import quota is set based on past 6 months' imports  | Not Applicable 
 
 *MT = Metric Ton
-
-
