@@ -9,7 +9,7 @@ description: ""
 
 Applicant of stockpile grade rice is required to participate in the **Rice Stockpile Scheme.** (What is [Rice Stockpile Scheme](Link to RSS)?)
 
-Upon application of a Rice Licence, applicants are required to first fulfill their Prescribed Stockpile Quantity (PSQ) in the designated warehouse storage and maintain the PSQ at all times. 
+Upon application of a Rice Licence, applicants are required to first fulfill their Prescribed Stockpile Quantity (PSQ) in the government designated warehouse and maintain the PSQ at all times. 
 
 |  | White Rice | Parboiled, Ponni and Basmati Rice | Other Rice| 
 | -------- | -------- | -------- | -------|
