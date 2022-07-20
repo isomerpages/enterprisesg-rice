@@ -3,7 +3,6 @@ title: Types of Rice Licence
 permalink: /rice-licences/permalink
 description: ""
 ---
-
 There are 6 types of rice licences a business entity/company can apply for: 
 
 | Type | Licence | Description |
