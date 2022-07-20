@@ -7,7 +7,7 @@ description: ""
 
 **When does a company required to apply for a Rice Licence?**
 
-If a business entity or company  
+If a business entity or company intends to import or re-export or carry-on wholesale dealings of rice in Singapore, a rice licence is required. 
 
 **What does application of a Rice Licence entail?** 
 
