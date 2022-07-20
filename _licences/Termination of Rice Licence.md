@@ -5,7 +5,7 @@ description: ""
 ---
 **When does a Rice Licence need to be terminated?**
 
-If a business entity or company with an existing rice licence **no longer needs the licence or no longer on a going-concern basis^**, they should terminate their rice licence.
+If a business entity or company with an existing rice licence **no longer needs the licence or no longer on a going-concern basis***, they should terminate their rice licence.
 
 *Kindly submit the rice licence termination application before submitting an application to ACRA to change the entity's status. *
 
