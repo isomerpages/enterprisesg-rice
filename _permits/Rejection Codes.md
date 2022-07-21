@@ -20,7 +20,7 @@ If a Rejection code is reflected please take the necessary steps advised in the 
 | R12     | CIF value has not been provided or is wrong. Please provide supporting documents: Insurance invoice, Freight charges in the resubmission.    |
 | R14     | Net weight of goods is wrong. Please declare the right weight and provide the packing list in the resubmission.   | 
 | R16     | Description of type of rice imported does not match the invoice or is not recognised in the list of types of rice. Please declare the right type of rice or provide more description of the type of rice imported in accordance to the list in the resubmission. | Text     |
-| R17     | PLEASE VERIFY IMPORTER'S NAME AGAINST THE COMMERCIAL INVOICE.     | Text     |
+| R17     | Importer's name does not match with the consignee's name on the commercial invoice. Please declare the consignee to be the importer in the resubmission. | Text     |
 | R18     | DECLARING AGENT/ IMPORTER REQUESTED TO WITHDRAW THE APPLICATION.     | Text     |
 | R19     | PRODUCT CODE DECLARED IS DIFFERENT FROM THAT STATED IN INVOICE.     | Text     |
 | R20    |  HS CODE DECLARED IS DIFFERENT FROM THAT STATED IN INVOICE.     | Text     |
