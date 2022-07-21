@@ -17,8 +17,8 @@ If a Rejection code is reflected please take the necessary steps advised in the 
 
 | Rejection Code | Explanation |
 | -------- | -------- |
-| R12     | CIF value has not been provided or is wrong. Please provide supporting documents | Text     |
-| R14     | PERMIT APPLICATION IS NOT APPROVED. PLEASE VERIFY NET WEIGHT IN TONNE AGAINST THE COMMERCIAL INVOICE.      | Text     |
+| R12     | CIF value has not been provided or is wrong. Please provide supporting documents: Insurance invoice, Freight charges in the resubmission.    |
+| R14     | Net weight of goods is wrong. Please declare the right weight and provide the packing list in the resubmission.   | 
 | R16     | PLEASE VERIFY DESCRIPTION OF GOODS AGAINST THE COMMERCIAL INVOICE.     | Text     |
 | R17     | PLEASE VERIFY IMPORTER'S NAME AGAINST THE COMMERCIAL INVOICE.     | Text     |
 | R18     | DECLARING AGENT/ IMPORTER REQUESTED TO WITHDRAW THE APPLICATION.     | Text     |
