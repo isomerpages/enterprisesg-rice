@@ -11,21 +11,21 @@ After submitting a permit application on TradeNet Portal, do wait 3-4 working da
 
 There are three categories of codes: Approval (A), Pending (P) and Rejected (R). If an Approval code is reflected, no further action is required on your end. 
 
-If a Rejection code is reflected please take the necessary steps advised in the rejection code message to ensure your submission is accurate. Refer below for more detailed steps you should take when you get a rejection code. 
+If a Rejection code is reflected please take the necessary steps advised in the rejection code message to ensure your submission is accurate. 
+
+For more common codes, refer below for more detailed steps to take in your follow up action. 
 
 **Frequently asked about Codes**
 
-| Rejection Code | Explanation |
+| Code | Explanation |
 | -------- | -------- |
 | R12     | CIF value has not been provided or is wrong. Please provide supporting documents: Insurance invoice, Freight charges in the resubmission.    |
 | R14     | Net weight of goods is wrong. Please declare the right weight and provide the packing list in the resubmission.   | 
 | R16     | Description of type of rice imported does not match the invoice or is not recognised in the list of types of rice. Please declare the right type of rice or provide more description of the type of rice imported in accordance to the list in the resubmission. | Text     |
 | R17     | Importer's name does not match with the consignee's name on the commercial invoice. Please declare the consignee to be the importer in the resubmission. |
-| R23/24   | CA/SC Code 2 field has not been filled/wrongly filled. Please fill in the correct MIQ in the resubmission.   | Text     |
-| R25     | PLEASE STATE MONTH/ APPROVAL NO. IN CA/SC CODE 2 FIELD.     | Text     |
-| R26     | PLEASE STATE MONTH/ APPROVAL NO. IN CA/SC CODE 2 FIELD.     | Text     |
-| R27     | PLEASE STATE PREVIOUS INWARD PERMIT NUMBER IN “PREVIOUS PERMIT NO.” FIELD.  | Text     |
-| R28    | PLEASE STATE RICE LICENCE NO. IN LICENCE DETAILS FIELD.     | Text     |
+| R23/24   | CA/SC Code 1 field has not been filled/wrongly filled. Please fill in the correct MIQ in the resubmission.   | Text     |
+| R25/26     | CA/SC Code 2 field has not been filled/wrongly filled. Please fill in the correct MIQ in the resubmission. |
+| R27     | PLEASE STATE PREVIOUS INWARD PERMIT NUMBER IN “PREVIOUS PERMIT NO.” FIELD.  | 
 | R29     | DECLARED QUANTITY IS GREATER THAN BALANCE QUANTITY OF MAX IMPORT QUANTITY.     | Text     |
 
 **Full list of Rejection Codes**
