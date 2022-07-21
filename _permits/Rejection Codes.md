@@ -12,7 +12,7 @@ There are three categories of codes: Approval (A), Pending (P) and Rejected (R).
 
 If a Rejection code is reflected please take the necessary steps advised in the rejection code message to ensure your submission is accurate. Refer below for more detailed steps you should take when you get a rejection code. 
 
-**What does each code mean and entail?**
+**Frequently asked about Codes**
 
 | Rejection Code | Automated Message Action to take  | Explanation |
 | -------- | -------- | -------- |
@@ -35,3 +35,5 @@ If a Rejection code is reflected please take the necessary steps advised in the 
 | R27     | PLEASE STATE PREVIOUS INWARD PERMIT NUMBER IN “PREVIOUS PERMIT NO.” FIELD.  | Text     |
 | R28    | PLEASE STATE RICE LICENCE NO. IN LICENCE DETAILS FIELD.     | Text     |
 | R29     | DECLARED QUANTITY IS GREATER THAN BALANCE QUANTITY OF MAX IMPORT QUANTITY.     | Text     |
+
+**Full list of Rejection Codes**
