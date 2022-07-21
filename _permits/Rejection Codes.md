@@ -15,12 +15,9 @@ If a Rejection code is reflected please take the necessary steps advised in the 
 
 **Frequently asked about Codes**
 
-| Rejection Code | Automated Message Action to take  | Explanation |
-| -------- | -------- | -------- |
-| R01     | PLEASE SUBMIT SEPARATE PERMIT APPLICATIONS FOR STOCKPILE GRADE RICE AND NON-STOCKPILE GRADE RICE.    | Text     |
-| R03     | PLEASE SUBMIT SEPARATE PERMIT APPLICATIONS FOR MIQ RICE AND PSQ RICE.     | Text     |
-| R08     |  PLEASE CHECK COUNTRY OF ORIGIN AGAINST THE COMMERCIAL INVOICE.     | Text     |
-| R12     | PLEASE VERIFY THE CIF VALUE AGAINST THE COMMERCIAL INVOICE OR THE CONVERSION OF THE STATED CURRENCY TO SINGAPORE DOLLARS.     | Text     |
+| Rejection Code | Explanation |
+| -------- | -------- |
+| R12     | CIF value has not been provided or is wrong. Please provide supporting documents | Text     |
 | R14     | PERMIT APPLICATION IS NOT APPROVED. PLEASE VERIFY NET WEIGHT IN TONNE AGAINST THE COMMERCIAL INVOICE.      | Text     |
 | R16     | PLEASE VERIFY DESCRIPTION OF GOODS AGAINST THE COMMERCIAL INVOICE.     | Text     |
 | R17     | PLEASE VERIFY IMPORTER'S NAME AGAINST THE COMMERCIAL INVOICE.     | Text     |
@@ -59,4 +56,4 @@ If a Rejection code is reflected please take the necessary steps advised in the 
 | R26     | PLEASE STATE MONTH/ APPROVAL NO. IN CA/SC CODE 2 FIELD.     
 | R27     | PLEASE STATE PREVIOUS INWARD PERMIT NUMBER IN “PREVIOUS PERMIT NO.” FIELD. 
 | R28    | PLEASE STATE RICE LICENCE NO. IN LICENCE DETAILS FIELD.     
-| R29     | DECLARED QUANTITY IS GREATER THAN BALANCE QUANTITY OF MAX IMPORT QUANTITY.    
+| R29     | DECLARED QUANTITY IS GREATER THAN BALANCE QUANTITY OF MAX IMPORT QUANTITY.
