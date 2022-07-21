@@ -20,14 +20,8 @@ If a Rejection code is reflected please take the necessary steps advised in the 
 | R12     | CIF value has not been provided or is wrong. Please provide supporting documents: Insurance invoice, Freight charges in the resubmission.    |
 | R14     | Net weight of goods is wrong. Please declare the right weight and provide the packing list in the resubmission.   | 
 | R16     | Description of type of rice imported does not match the invoice or is not recognised in the list of types of rice. Please declare the right type of rice or provide more description of the type of rice imported in accordance to the list in the resubmission. | Text     |
-| R17     | Importer's name does not match with the consignee's name on the commercial invoice. Please declare the consignee to be the importer in the resubmission. | Text     |
-| R18     | DECLARING AGENT/ IMPORTER REQUESTED TO WITHDRAW THE APPLICATION.     | Text     |
-| R19     | PRODUCT CODE DECLARED IS DIFFERENT FROM THAT STATED IN INVOICE.     | Text     |
-| R20    |  HS CODE DECLARED IS DIFFERENT FROM THAT STATED IN INVOICE.     | Text     |
-| R21    | HS CODE AND PRODUCT CODE DECLARED DO NOT MATCH.     | Text     |
-| R22     | PLEASE SUBMIT NEW APPLICATION WITH AMENDED INVOICE SPECIFYING THE TYPE OF RICE.     | Text     |
-| R23     | PLEASE STATE REASON IN CA/SC CODE 1 FIELD.     | Text     |
-| R24     | PLEASE VERIFY REASON IN CA/SC CODE 1 FIELD.     | Text     |
+| R17     | Importer's name does not match with the consignee's name on the commercial invoice. Please declare the consignee to be the importer in the resubmission. |
+| R23/24   | CA/SC Code 2 field has not been filled/wrongly filled. Please fill in the correct MIQ in the resubmission.   | Text     |
 | R25     | PLEASE STATE MONTH/ APPROVAL NO. IN CA/SC CODE 2 FIELD.     | Text     |
 | R26     | PLEASE STATE MONTH/ APPROVAL NO. IN CA/SC CODE 2 FIELD.     | Text     |
 | R27     | PLEASE STATE PREVIOUS INWARD PERMIT NUMBER IN “PREVIOUS PERMIT NO.” FIELD.  | Text     |
