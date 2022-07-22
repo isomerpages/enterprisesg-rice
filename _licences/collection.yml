@@ -2,7 +2,7 @@ collections:
   licences:
     output: true
     order:
-      - About.md
+      - Overview.md
       - Rice Licence Application Criteria.md
       - Types of Rice Licence.md
       - Application of Rice Licence.md
