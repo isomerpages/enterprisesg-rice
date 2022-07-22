@@ -11,7 +11,7 @@ If a business entity or company had their rice licence revoked or terminated, th
 
 **Fees Payable**
 
-A $50* licence fee is applicable for each application. 
+A $50 licence fee is applicable for each application. 
 
 Each licence has lifetime validity.*
 
