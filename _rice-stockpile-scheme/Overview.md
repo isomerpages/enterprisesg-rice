@@ -13,7 +13,7 @@ Importers of stockpile graded rice are required to participate in the Rice Stock
 
 | Term | Description |
 | -------- |-------- |
-| 1. Stockpile Grade Rice|   |
+| 1. Stockpile Grade Rice |   |
 | 2. MIQ and PSQ|   |
 | 3. Designated Warehouse Operator |   |
 | 4. Stockpile Grade Rice|   |
