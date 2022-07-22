@@ -9,7 +9,7 @@ The Rice Stockpile Scheme (RSS) is operated under the legal framework of the [Pr
 
 Importers of stockpile graded rice are required to participate in the Rice Stockpile Scheme (RSS).  
 
-**What is stockpile graded rice?**
+**What is Stockpile Graded rice?**
 
 | |
 | -------- | 
@@ -19,3 +19,15 @@ Importers of stockpile graded rice are required to participate in the Rice Stock
 4. Basmati Rice 
 
 **White Rice refers to all type of rice that is white, without having other ingredients added*.
+
+**PSQ and MIQ**
+
+All stockpile participants are obliged to keep a **Prescribed Stockpile Quantity (PSQ)** in the government-designated warehouses.
+
+|  | White Rice | Parboiled, Ponni and Basmati Rice | Other Rice| 
+| -------- | -------- | -------- | -------|
+| **MIQ** | Minimum 50 MT per month   | No minimum import quota but maximum import quota is set based on past 6 months' imports  | Not Applicable 
+|**PSQ**| 2 times of MIQ| 2 times of average import quantity for the preceding period of 6 months or 5 MT, whichever is higher | Not applicable 
+
+*MT = Metric Ton
+*MIQ = Monthly Import Quantity 
