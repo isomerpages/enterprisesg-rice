@@ -3,14 +3,23 @@ title: Overview
 permalink: /rice-stockpile-scheme/permalink
 description: ""
 ---
-**What is Rice Stockpile Scheme?**
+**What is Rice Stockpile Scheme (RSS) ?**
 
 The Rice Stockpile Scheme (RSS) is operated under the legal framework of the [Price Control Act (Chapter 224)](https://sso.agc.gov.sg/Act/PCA1950). 
 
 Importers of stockpile graded rice are required to participate in the Rice Stockpile Scheme (RSS).  
 
-**What is Stockpile Grade Rice?**
+**What do I need to note regarding RSS?**
 
+| Term | Description |
+| -------- |-------- |
+| 1. Stockpile Grade Rice|   |
+| 2. MIQ and PSQ|   |
+| 3. Designated Warehouse Operator |   |
+| 4. Stockpile Grade Rice|   |
+
+2. MIQ and PSQ
+3. Designated Warehouse Operator 
 | |
 | -------- | 
 | 1. White Rice*
