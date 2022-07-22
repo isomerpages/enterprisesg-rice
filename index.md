@@ -15,9 +15,6 @@ sections:
         - title: New licence holders
           description: How do I get started?
           url: https://gmail.com
-        - title: Important forms
-          description: ""
-          url: /privacy/
       title: Rice Stockpile Scheme (RSS)
       background: /images/rss.png
   - infobar:
