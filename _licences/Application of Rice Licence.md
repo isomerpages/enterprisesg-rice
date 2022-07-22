@@ -11,7 +11,7 @@ If a business entity or company intends to import or re-export or carry-on whole
 
 **What does application of a Rice Licence entail?** 
 
-Applicant of stockpile grade rice is required to participate in the **Rice Stockpile Scheme.** (What is [Rice Stockpile Scheme](Link to RSS)?)
+Applicant of stockpile grade rice is required to participate in the **Rice Stockpile Scheme.** (What is [Rice Stockpile Scheme](/rice-stockpile-scheme/permalink)?)
 
 Upon application of a Rice Licence, applicants are required to first fulfill their Prescribed Stockpile Quantity (PSQ) in the government designated warehouse and maintain the PSQ at all times. 
 
