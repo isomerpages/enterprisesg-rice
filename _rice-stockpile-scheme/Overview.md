@@ -14,7 +14,7 @@ The Rice Stockpile Scheme (RSS) is operated under the legal framework of the [Pr
 | -------- |-------- |
 | Stockpile Grade Rice | Importers of Stockpile Graded Rice are required to participate in the Rice Stockpile Scheme (RSS). |
 | MIQ and PSQ | All stockpile participants are obliged to keep a Prescribed Stockpile Quantity (PSQ) in the government-designated warehouses. |
-| Designated Warehouse Operator |   |
+| Designated Warehouse Operator |  The Designated Warehouse Operator oversees the operations of the government designated warehouses. Singapore Storage & Warehouse Pte Ltd (SSW) is the sole Designated Warehouse Operator. |
 
 More information on each  term can be found in the subsequent pages. 
 
