@@ -9,7 +9,7 @@ If a business entity or company with an existing Rice Licence **no longer needs 
 
 *Kindly submit the Rice Licence termination application before submitting an application to ACRA to change the entity's status.
 
-**What does termination of a Rice Licence entail?**
+**What does the termination of a Rice Licence entail?**
 
 Upon termination of licence, a 3-month notification period will be given. During this period, you are required to:
 * sell or dispose **half** of your stockpile quantity of rice **within 2-month** of the notification and 
@@ -24,7 +24,7 @@ Please arrange the 3-month notification period for rice disposal/sale of rice wi
 In the event your business entity or company wishes to terminate their Rice Licence, please follow the steps below:
 
 |  | 
-| -------- | 
+| -- | 
 | 1. Login to [GoBusiness Website](https://www.gobusiness.gov.sg/) 
 2. Login via your preferred mode
 3. Under "Licence Application", select "Cancel Existing Licence"
