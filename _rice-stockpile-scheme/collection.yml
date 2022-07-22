@@ -2,8 +2,8 @@ collections:
   rice-stockpile-scheme:
     output: true
     order:
-      - FAQs.md
       - Overview.md
       - Stockpile Grade Rice.md
       - Monthly Import Quota (MIQ) and Prescribed Stockpile Quantity (PSQ).md
       - Designated Warehouse Operator (SSW).md
+      - FAQs.md
