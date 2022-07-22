@@ -2,8 +2,8 @@ collections:
   permits:
     output: true
     order:
-      - FAQs.md
       - Overview.md
       - Permit Application.md
       - HS Codes and Product Codes.md
       - Rejection Codes.md
+      - FAQs.md
