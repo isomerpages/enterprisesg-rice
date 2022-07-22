@@ -26,7 +26,7 @@ Upon application of a Rice Licence, applicants are required to first fulfill the
 
 Applicants are given **3-months** upon approval of licence, or their first import, whichever earlier, to meet their PSQ requirements. If there is no import activity within the first **3-months** of the issuance of licence, applicants are advised to buy rice locally and to stockpile in the designated warehouse storage. 
 
-Please refer [here](PSQ link) for more details regarding PSQ.
+Please refer [here](/rice-stockpile-scheme/Standards-for-Rice/permalink) for more details regarding PSQ.
 
 **How to apply for a Rice Licence?**
 
