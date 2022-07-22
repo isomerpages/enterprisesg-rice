@@ -53,9 +53,9 @@ It is an international standardised numerical method for classification of good
 **For Manufacturing Licence**
 | HS Codes | Product Codes |
 | -------- | -------- | 
-| 10063091 | RCUOHUSKED |    |
-| 10063030 | RCUTHMHUSKED | Thai Hom Mali Husked or Brown Rice |
-| 10064090 | RCUTHMHUSKED | Thai Hom Mali Husked or Brown Rice |
+| 10063091 | Parboiled Rice Semi Milled or Wholly Milled (TNE) |    
+| 10063030 | Glutinous Rice Semi Milled or Wholly Milled (TNE) |
+| 10064090 | Broken Rice of a kind not used for animal feed (TNE) | 
 
 **For Non-Stockpile Licence**
 | HS Codes | Product Codes | Type of rice |
