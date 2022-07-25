@@ -8,7 +8,7 @@ description: ""
 Similar to a licence application, you would require a registered Corppass account. 
 
 
-**How to apply for a Rice Permit:**
+**How to apply for a Rice Permit?**
 
 For all rice consignments, importers are to submit permit declarations for rice imports and exports via the TradeNet® System. Click [here](https://www.tradenet.gov.sg/tradenet/login.jsp) to access the TradeNet® page.
 
