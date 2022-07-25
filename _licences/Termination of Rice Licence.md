@@ -25,10 +25,10 @@ In the event your business entity or company wishes to terminate their Rice Lice
 
 |  | 
 | -- | 
-| 1. Login to [GoBusiness Website](https://www.gobusiness.gov.sg/) 
-2. Login via your preferred mode
-3. Under "Licence Application", select "Cancel Existing Licence"
-4. Select "Enterprise Singapore" and "Rice Licence"
-5. Fill in the "Licence Number" and select "Licence Type"
-6. Submit the application 
-7. Mail the licence back to EnterpriseSG, if applicable
+| 1. Login to [GoBusiness Website] (https://www.gobusiness.gov.sg/) |
+| 2. Login via your preferred mode|
+| 3. Under "Licence Application", select "Cancel Existing Licence" |
+| 4. Select "Enterprise Singapore" and "Rice Licence" |
+| 5. Fill in the "Licence Number" and select "Licence Type" |
+| 6. Submit the application |
+| 7. Mail the licence back to EnterpriseSG, if applicable |
