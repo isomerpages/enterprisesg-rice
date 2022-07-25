@@ -3,7 +3,6 @@ title: HS Codes and Product Codes
 permalink: /permits/HS-Product-Codes/permalink
 description: ""
 ---
-
 **What is Harmonised System (HS) Code?**
 
 It is an international standardised numerical method for classification of goods. The codes are categorised based on the type of licence you own. Please use the correct codes in your application. 
