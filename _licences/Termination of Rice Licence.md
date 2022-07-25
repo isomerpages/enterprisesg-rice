@@ -3,7 +3,6 @@ title: Termination of Rice Licence
 permalink: /licences/Termination/permalink
 description: ""
 ---
-
 **When does a Rice Licence need to be terminated?**
 
 If a business entity or company with an existing Rice Licence **no longer needs the licence or no longer on a going-concern basis***, they should terminate their Rice Licence.
@@ -20,7 +19,7 @@ Your business entity or company and directors will also be subjected to a 6-mont
 
 Please arrange the 3-month notification period for rice disposal/sale of rice with the designated warehouse provider.
 
-**How to Terminate Rice Licence**
+**How to Terminate Rice Licence:**
 
 In the event your business entity or company wishes to terminate their Rice Licence, please follow the steps below:
 
