@@ -11,7 +11,7 @@ If a business entity or company intends to import or re-export or carry-on whole
 
 **What does application of a Rice Licence entail?** 
 
-Applicant of stockpile grade rice is required to participate in the **Rice Stockpile Scheme.** (What is [Rice Stockpile Scheme](/rice-stockpile-scheme/Overview/permalink)?)
+Applicant of stockpile grade rice is required to participate in the Rice Stockpile Scheme. (What is [Rice Stockpile Scheme](/rice-stockpile-scheme/Overview/permalink)?)
 
 Upon application of a Rice Licence, applicants are required to first fulfill their Prescribed Stockpile Quantity (PSQ) in the government designated warehouse and maintain the PSQ at all times. 
 
@@ -20,8 +20,7 @@ Upon application of a Rice Licence, applicants are required to first fulfill the
 | **MIQ** | Minimum 50 MT per month   | No minimum import quota but maximum import quota is set based on past 6 months' imports  | Not Applicable 
 |**PSQ**| 2 times of MIQ| 2 times of average import quantity for the preceding period of 6 months or 5 MT, whichever is higher | Not applicable 
 
-*MT = Metric Ton
-*MIQ = Monthly Import Quantity 
+MT = Metric Ton, MIQ = Monthly Import Quantity 
 
 
 Applicants are given **3-months** upon approval of licence, or their first import, whichever earlier, to meet their PSQ requirements. If there is no import activity within the first **3-months** of the issuance of licence, applicants are advised to buy rice locally and to stockpile in the designated warehouse storage. 
@@ -37,7 +36,7 @@ Please refer [here](/rice-stockpile-scheme/MIQ-PSQ/permalink) for more details r
 | 3. Register with [Singapore Storage & Warehouse Pte Ltd](https://www.ssw.com.sg/) |
 
  
-*Corpass is the authorisation system for entities to manage digital service access of employees who need to perform corporate transactions. For more details, please refer [here](https://www.corppass.gov.sg/cpauth/login/homepage?URL=%2F&TAM_OP=login).
+*Corppass is the authorisation system for entities to manage digital service access of employees who need to perform corporate transactions. For more details, please refer [here](https://www.corppass.gov.sg/cpauth/login/homepage?URL=%2F&TAM_OP=login).
 
 ## **Application of Temporary Rice Licence (6)**
 
