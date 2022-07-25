@@ -17,5 +17,4 @@ The Rice Stockpile Scheme (RSS) is operated under the legal framework of the [Pr
 | Prescribed Stockpile Quantity (PSQ) |  This term concerns an importer who is a participant of the RSS. Prescribed Stockpile Quantity (PSQ) is the quantity of rice all stockpile participants are obliged to keep a in the government-designated warehouses. |
 | Designated Warehouse Operator |  The Designated Warehouse Operator oversees the operations of the government designated warehouses. Singapore Storage & Warehouse Pte Ltd (SSW) is the sole Designated Warehouse Operator. |
 
-More information on each  term can be found in the subsequent pages. 
-
+More information on each  term can be found in the subsequent pages.
