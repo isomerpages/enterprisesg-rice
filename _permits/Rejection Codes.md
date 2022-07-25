@@ -3,7 +3,6 @@ title: Rejection Codes
 permalink: /permits/Rejection-Codes/permalink
 description: ""
 ---
-
 **When will I see these codes?**
 
 After submitting a permit application on TradeNet Portal, do wait 3-4 working days for the application status to be updated. 
