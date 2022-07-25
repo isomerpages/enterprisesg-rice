@@ -19,7 +19,7 @@ All stockpile participants are obliged to keep a **Prescribed Stockpile Quantity
 
 Rice stockpile shall not be kept in the warehouse for more than a year. The rice stockpile belongs to the individual stockpile participants and the Government has the right to acquire the rice (with compensation) during an emergency. 
 
-| ---  | White Rice | Parboiled, Ponni and Basmati Rice | Other Rice| 
+|  | White Rice | Parboiled, Ponni and Basmati Rice | Other Rice| 
 | -------- | -------- | -------- | -------|
 |**PSQ**| 2 times of MIQ| 2 times of average import quantity for the preceding period of 6 months or 5 MT, whichever is higher | Not applicable 
 
@@ -28,7 +28,8 @@ MT = Metric Ton
 Note: Stockpile participant may stockpile any combination of stockpile grade rice, as long as the required stockpile quantity is met.
 
 **MIQ and PSQ Summary Table**
-| --- | White Rice | Parboiled, Ponni and Basmati Rice | Other Rice| 
+
+|  | White Rice | Parboiled, Ponni and Basmati Rice | Other Rice| 
 | -------- | -------- | -------- | -------|
 | **MIQ** | Minimum 50 MT per month   | No minimum import quota but maximum import quota is set based on past 6 months' imports  | Not Applicable |
 |**PSQ**| 2 times of MIQ| 2 times of average import quantity for the preceding period of 6 months or 5 MT, whichever is higher | Not applicable |
