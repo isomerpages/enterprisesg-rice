@@ -19,7 +19,7 @@ Your business entity or company and directors will also be subjected to a 6-mont
 
 Please arrange the 3-month notification period for rice disposal/sale of rice with the designated warehouse provider.
 
-**How to Terminate Rice Licence:**
+**How to Terminate Rice Licence?**
 
 In the event your business entity or company wishes to terminate their Rice Licence, please follow the steps below:
 
