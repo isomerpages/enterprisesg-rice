@@ -8,13 +8,15 @@ description: ""
 It is an international standardised numerical method for classification of goods. The codes are categorised based on the type of licence you own. Please use the correct codes in your application. 
 
 **For P-RSS Licence**
+
 | HS Codes | Product Codes | Type of rice |
 | -------- | -------- | -------- |
-| 10063091 | RCUPARBOILED | Parboiled Rice     |
-| 10063099 | RCUPONNI | Ponni Rice     |
+| 10063091 | RCUPARBOILED | Parboiled Rice |
+| 10063099 | RCUPONNI | Ponni Rice  |
 | 10063050 | RCUBASMATI | Semi Milled or Wholly Milled Basmati Rice  |
 
 **For RSS Licence**
+
 | HS Codes | Product Codes | Type of rice |
 | -------- | -------- | -------- |
 | 10063070  | RCUFRAG  | Other Fragrant Rice which is Semi-Milled or Wholly Milled Rice other than Parboiled, Glutinous and Thai Hom Mali Rice   |
@@ -34,6 +36,7 @@ It is an international standardised numerical method for classification of good
 
 
 **For Re-export Licence**
+
 | HS Codes | Product Codes | Type of rice |
 | -------- | -------- | -------- |
 | 10063099  | RCURX | Other Semi-Milled or Wholly Milled Rice excl. Parboiled Rice, Glutinous Rice and Thai Hom Mali Rice (TNE) | 
@@ -51,13 +54,15 @@ It is an international standardised numerical method for classification of good
 | 10063050 | RCURX | Semi Milled or Wholly Milled Basmati Rice (TNE)  | 
 
 **For Manufacturing Licence**
+
 | HS Codes | Product Codes |
 | -------- | -------- | 
-| 10063091 | Parboiled Rice Semi Milled or Wholly Milled (TNE) |    
+| 10063091 | Parboiled Rice Semi Milled or Wholly Milled (TNE) |   
 | 10063030 | Glutinous Rice Semi Milled or Wholly Milled (TNE) |
 | 10064090 | Broken Rice of a kind not used for animal feed (TNE) | 
 
 **For Non-Stockpile Licence**
+
 | HS Codes | Product Codes | Type of rice |
 | -------- | -------- | -------- |
 | 10062090 | RCUOHUSKED | Other Husked or Brown Rice   |
