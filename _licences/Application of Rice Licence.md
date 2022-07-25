@@ -54,4 +54,4 @@ Individuals or business entity or company can apply for a temporary rice licence
 
 It will take up to 3 working days for the application to be received. The applicant will be notified by email upon approval of the application. 
 
-*Enterprise Singapore will not entertain any queries on status of the application before 3 working days.*
+Enterprise Singapore will not entertain any queries on status of the application before 3 working days.
