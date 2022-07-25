@@ -5,9 +5,9 @@ description: ""
 ---
 **Applicant Criteria**
 
-Only a business entity or company registered with ACRA can apply for a rice licence. 
+Only a business entity or company registered with ACRA can apply for a Rice Licence. 
 
-If a business entity or company had their rice licence revoked or terminated, they can only apply for a new rice licence after **9 months** from the date of termination.  
+If a business entity or company had their Rice Licence revoked or terminated, they can only apply for a new Rice Licence after **9 months** from the date of termination.  
 
 **Fees Payable**
 
