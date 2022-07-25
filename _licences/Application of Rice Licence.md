@@ -32,14 +32,11 @@ Please refer [here](/rice-stockpile-scheme/MIQ-PSQ/permalink) for more details r
 
 |  | 
 | -- |
-| 1.  To apply for a Rice Licence, you would first require a Corppass account for your business entity or company.
-| 2. With your Corppass* account ready, please refer to this detailed step-by-step application [guide](/files/Rice%20Licence%20Application%20Guide%20on%20GoBusiness.pdf) to apply for a Rice Licence.
-3. Register with [Singapore Storage & Warehouse Pte Ltd](https://www.ssw.com.sg/) 
+| 1.  To apply for a Rice Licence, you would first require a Corppass account for your business entity or company. |
+| 2. With your Corppass* account ready, please refer to this detailed step-by-step application [guide](/files/Rice%20Licence%20Application%20Guide%20on%20GoBusiness.pdf) to apply for a Rice Licence. |
+| 3. Register with [Singapore Storage & Warehouse Pte Ltd](https://www.ssw.com.sg/) |
 
  
-
-
-
 *Corpass is the authorisation system for entities to manage digital service access of employees who need to perform corporate transactions. For more details, please refer [here](https://www.corppass.gov.sg/cpauth/login/homepage?URL=%2F&TAM_OP=login).
 
 ## **Application of Temporary Rice Licence (6)**
@@ -51,12 +48,10 @@ Individuals or business entity or company can apply for a temporary rice licence
 | -------- |
 | 1. Tax Invoice/Commercial Invoice for the purchase    | 
 
-
-
 | Procedures  | 
 | -------- | 
-| 1. Prepare the document(s) as mentioned above 
-2. Complete this application [form](https://form.gov.sg/#!/62d4fdd813b5080012ff5e8d) 
+| 1. Prepare the document(s) as mentioned above |
+|2. Complete this application [form](https://form.gov.sg/#!/62d4fdd813b5080012ff5e8d) |
 
 It will take up to 3 working days for the application to be received. The applicant will be notified by email upon approval of the application. 
 
