@@ -3,7 +3,6 @@ title: Application of Rice Licence
 permalink: /licences/Application/permalink
 description: ""
 ---
-
 ## **Application of Rice Licence (1-5)**
 
 **When does a company required to apply for a Rice Licence?**
@@ -12,7 +11,7 @@ If a business entity or company intends to import or re-export or carry-on whole
 
 **What does application of a Rice Licence entail?** 
 
-Applicant of stockpile grade rice is required to participate in the **Rice Stockpile Scheme.** (What is [Rice Stockpile Scheme](/rice-stockpile-scheme/permalink)?)
+Applicant of stockpile grade rice is required to participate in the **Rice Stockpile Scheme.** (What is [Rice Stockpile Scheme](/rice-stockpile-scheme/Overview/permalink)?)
 
 Upon application of a Rice Licence, applicants are required to first fulfill their Prescribed Stockpile Quantity (PSQ) in the government designated warehouse and maintain the PSQ at all times. 
 
@@ -42,6 +41,7 @@ Please refer [here](/rice-stockpile-scheme/Standards-for-Rice/permalink) for mor
 
 
 *Corpass is the authorisation system for entities to manage digital service access of employees who need to perform corporate transactions. For more details, please refer [here](https://www.corppass.gov.sg/cpauth/login/homepage?URL=%2F&TAM_OP=login).
+
 ## **Application of Temporary Rice Licence (6)**
 
 Individuals or business entity or company can apply for a temporary rice licence for **an one-off**  importation  of rice for personal/commerical reasons. 
