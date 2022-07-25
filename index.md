@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: About RSS
           description: Find out more about us!
-          url: /rice-stockpile-scheme/permalink
+          url: /rice-stockpile-scheme/Overview/permalink
         - title: New licence holders
           description: How do I get started?
           url: https://gmail.com
