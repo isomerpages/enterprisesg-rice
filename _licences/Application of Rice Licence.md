@@ -26,7 +26,7 @@ Upon application of a Rice Licence, applicants are required to first fulfill the
 
 Applicants are given **3-months** upon approval of licence, or their first import, whichever earlier, to meet their PSQ requirements. If there is no import activity within the first **3-months** of the issuance of licence, applicants are advised to buy rice locally and to stockpile in the designated warehouse storage. 
 
-Please refer [here](/rice-stockpile-scheme/Standards-for-Rice/permalink) for more details regarding PSQ.
+Please refer [here](/rice-stockpile-scheme/MIQ-PSQ/permalink) for more details regarding PSQ.
 
 **How to apply for a Rice Licence?**
 
@@ -56,7 +56,7 @@ Individuals or business entity or company can apply for a temporary rice licence
 | Procedures  | 
 | -------- | 
 | 1. Prepare the document(s) as mentioned above 
-2. Complete the FormSg application [form](https://form.gov.sg/#!/62d4fdd813b5080012ff5e8d) 
+2. Complete this application [form](https://form.gov.sg/#!/62d4fdd813b5080012ff5e8d) 
 
 It will take up to 3 working days for the application to be received. The applicant will be notified by email upon approval of the application. 
 
