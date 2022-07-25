@@ -3,14 +3,15 @@ title: Permit Application
 permalink: /permits/Permit-Application/permalink
 description: ""
 ---
-**What is a Rice Permit required for?**
-
-For all rice consignments, importers are to submit permit declarations for rice imports and exports via the TradeNet® System. Click [here](https://www.tradenet.gov.sg/tradenet/login.jsp) to access the TradeNet® page.
-
-
 **What are the requirements for application?**
 
 Similar to a licence application, you would require a registered Corppass account. 
+
+
+**How to apply for a Rice Permit:**
+
+For all rice consignments, importers are to submit permit declarations for rice imports and exports via the TradeNet® System. Click [here](https://www.tradenet.gov.sg/tradenet/login.jsp) to access the TradeNet® page.
+
 
 **Find out more!**
 
