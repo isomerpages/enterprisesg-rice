@@ -29,4 +29,5 @@ sections:
       button: "Price Control (rice) order "
       url: https://sso.agc.gov.sg/SL/PCA1950-OR5?DocDate=19920325
       alt: Image alt text
+      image: /images/chix rice.png
 ---
