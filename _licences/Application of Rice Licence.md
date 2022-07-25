@@ -30,8 +30,8 @@ Please refer [here](/rice-stockpile-scheme/MIQ-PSQ/permalink) for more details r
 
 **How to apply for a Rice Licence?**
 
-|  | 
-| -- |
+| Steps |
+| -------- |
 | 1.  To apply for a Rice Licence, you would first require a Corppass account for your business entity or company. |
 | 2. With your Corppass* account ready, please refer to this detailed step-by-step application [guide](/files/Rice%20Licence%20Application%20Guide%20on%20GoBusiness.pdf) to apply for a Rice Licence. |
 | 3. Register with [Singapore Storage & Warehouse Pte Ltd](https://www.ssw.com.sg/) |
