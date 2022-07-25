@@ -15,4 +15,4 @@ A $50 licence fee is applicable for each application.
 
 Each licence has lifetime validity.*
 
-**Subject to any legislation changes by Enterprise Singapore*
+*Subject to any legislation changes by Enterprise Singapore
