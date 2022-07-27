@@ -5,7 +5,7 @@ description: ""
 ---
 **What is Harmonised System (HS) Code?**
 
-It is an international standardised numerical method for classification of goods. The codes are categorised based on the type of licence you own. Please use the correct codes in your application. 
+It is an international standardised numerical method for classification of goods. The codes are categorised based on the type of licence applied. Please use the correct codes in your application. 
 
 **For P-RSS Licence**
 
