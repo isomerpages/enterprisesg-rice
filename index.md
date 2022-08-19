@@ -21,7 +21,7 @@ sections:
       title: Rice Stockpile Scheme (RSS)
       background: /images/rss.png
   - infopic:
-      title: In Singapore, Rice is a controlled item!
+      title: In Singapore, Rice is a controlled item
       subtitle: DID YOU KNOW?
       description: "To ensure Rice is an accessible good in Singapore, the Minister of
         Trade and Industry issued the Price Control Act (1950) and Price Control
