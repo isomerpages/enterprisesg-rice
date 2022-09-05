@@ -18,6 +18,9 @@ sections:
         - title: "Business user login "
           description: For existing Corppass users
           url: https://id.corppass.gov.sg/mga/sps/oauth/oauth20/authorize?response_type=code&scope=openid&client_id=dR3r5ptxBmA8chy94hND&nonce=MGCaqmVb&state=MGCaqmVbGezr&redirect_uri=https%3A%2F%2Frice.enterprisesg.gov.sg%2Flogin_cp.aspx
+        - title: "Announcement "
+          description: "Find out more about new announcements! "
+          url: ""
       title: Rice Stockpile Scheme (RSS)
       background: /images/rss.png
   - infopic:
