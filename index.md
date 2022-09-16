@@ -22,7 +22,7 @@ sections:
           description: "Find out more about new announcements! "
           url: ""
       title: Rice Stockpile Scheme (RSS)
-      background: /images/rss.png
+      background: /images/homepage image.png
   - infopic:
       title: In Singapore, Rice is a controlled item
       subtitle: DID YOU KNOW?
