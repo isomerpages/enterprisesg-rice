@@ -1,20 +1,20 @@
 title: Enterprise Singapore
-url: ""
+url: https://rice.enterprisesg.gov.sg
 favicon: /images/logo.png
 colors:
   primary-color: "#d0021b"
   secondary-color: "#d0021b"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#d0021b"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#d0021b"
     - title: media-color-three
-      color: "#00838f"
+      color: "#d0021b"
     - title: media-color-four
-      color: "#00838f"
+      color: "#d0021b"
     - title: media-color-five
-      color: "#00838f"
+      color: "#d0021b"
 resources_name: resources
 description: An Isomer site of the Singapore Government
 permalink: none
