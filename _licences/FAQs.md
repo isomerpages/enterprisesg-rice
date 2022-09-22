@@ -1,6 +1,6 @@
 ---
 title: FAQs
-permalink: /licences/FAQs/permalink
+permalink: /licences/FAQs/permalink/
 description: ""
 ---
-[Licences FAQs]()
+Please refer to enclosed for the detailed [Licences FAQs]().
