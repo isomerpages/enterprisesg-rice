@@ -2,7 +2,6 @@ collections:
   licences:
     output: true
     order:
-      - Example Title.md
       - Overview.md
       - Rice Licence Application Criteria.md
       - Types of Rice Licence.md
