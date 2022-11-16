@@ -33,7 +33,5 @@ sections:
       url: https://sso.agc.gov.sg/SL/PCA1950-OR5?DocDate=19920325
       alt: Image alt text
       image: /images/chix rice.png
-  - infobar:
-      subtitle: Infobar Subtitle
-      url: https://www.youtube.com/watch?v=HauZJhlDoZ8
+  - infobar: {}
 ---
